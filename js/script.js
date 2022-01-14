@@ -1,4 +1,7 @@
 window.addEventListener("DOMContentLoaded",()=>{
+
+	// tabs и их переключение 
+
 	const tabs = document.querySelectorAll(".tabheader__item"),
 	tabscontent = document.querySelectorAll(".tabcontent"),
 	tabparent = document.querySelector(".tabheader__items");
@@ -34,8 +37,9 @@ window.addEventListener("DOMContentLoaded",()=>{
 	})
 
 		//timer 
+
 		//дедлайн даты таймера 
-		const deadlinetime = "2022-01-12";
+		const deadlinetime = "2022-03-23";
 
 		function getTimeReamain(endtime) {
 			const t = Date.parse(endtime) - Date.parse(new Date());
@@ -78,6 +82,7 @@ window.addEventListener("DOMContentLoaded",()=>{
 		setTimer(".timer",deadlinetime);
 
 		//Модальное окно и всё с ним связанное 
+		3
 		function zeronum(num) {
 			return (num >= 0 && num < 10)? `0${num}`: num
 		};
@@ -94,8 +99,17 @@ window.addEventListener("DOMContentLoaded",()=>{
 		modal.addEventListener("click",(el)=>{
 			if(el.target === modal){
 				closemodal();
+				window.removeEventListener("scroll",ShowModalByScroll);				
 			}
 		});
+		document.addEventListener('keydown',(el) => {
+			if(el.code === "Escape" && (modal.style.display == "block")){
+				closemodal();
+				window.removeEventListener("scroll",ShowModalByScroll); 		
+			}
+		});
+
+		// helpers
 		function showmodal() {
 			modal.style.display = "block";
 			document.body.style.overflow = "hidden";
@@ -109,14 +123,57 @@ window.addEventListener("DOMContentLoaded",()=>{
 			if(window.pageYOffset + document.documentElement.clientHeight >= document.documentElement.scrollHeight)
 				showmodal();
 		};
-		document.addEventListener('keydown',(el) => {
-			if(el.code === "Escape" && (modal.style.display == "block")){
-				closemodal();
-				window.removeEventListener("scroll",ShowModalByScroll); 		
+		
+		const modaltimer = setTimeout(showmodal,22000);
+
+		window.addEventListener("scroll",ShowModalByScroll);
+
+		//Классы для для карточек
+
+		class MenuCard{
+			constructor(src,alt,title,descr,price,currency,transfer,parentElement){
+				this.src=src;
+				this.alt=alt;
+				this.title=title;
+				this.descr=descr;
+				this.price=price;
+				this.currency=currency;
+				this.transfer=transfer;
+				this.changeTORub();
+				this.parentElement=document.querySelector(parentElement);
 			}
-		});
 
-		const modaltimer = setTimeout(showmodal,11000);
+			changeTORub(){
+				this.price= +this.price * this.transfer;
+				this.price=this.price.toFixed();
 
-		window.addEventListener("scroll",ShowModalByScroll ) 
-	});
+			}
+
+			render(){
+				const element = document.createElement("div");
+				element.innerHTML=` <div class="menu__item">
+                    <img src=${this.src} alt=${this.alt}>
+                    <h3 class="menu__item-subtitle">${this.title}</h3>
+                    <div class="menu__item-descr">${this.descr}</div>
+                    <div class="menu__item-divider"></div>
+                    <div class="menu__item-price">
+                        <div class="menu__item-cost">Цена:</div>
+                        <div class="menu__item-total"><span>${this.price}</span> ${this.currency}/день</div>
+                    </div>
+                </div>`;
+				this.parentElement.append(element)
+			}	
+		}
+
+		 new MenuCard(
+			"img/tabs/elite.jpg",
+			"elite",
+			'Меню "Фитнес"',
+			"Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
+			360,
+			"Руб",
+			2.6872,
+			".menu .container"
+
+			).render();
+	}); 
