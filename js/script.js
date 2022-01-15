@@ -131,7 +131,7 @@ window.addEventListener("DOMContentLoaded",()=>{
 		//Классы для для карточек
 
 		class MenuCard{
-			constructor(src,alt,title,descr,price,currency,transfer,parentElement){
+			constructor(src,alt,title,descr,price,currency,transfer,parentElement,...classes){
 				this.src=src;
 				this.alt=alt;
 				this.title=title;
@@ -141,6 +141,7 @@ window.addEventListener("DOMContentLoaded",()=>{
 				this.transfer=transfer;
 				this.changeTORub();
 				this.parentElement=document.querySelector(parentElement);
+				this.classes=classes || "menu__item";
 			}
 
 			changeTORub(){
@@ -151,6 +152,15 @@ window.addEventListener("DOMContentLoaded",()=>{
 
 			render(){
 				const element = document.createElement("div");
+				if(this.classes.Length==0){
+					element.classList.add("menu__item");
+				}
+				else{
+				this.classes.forEach((classname)=>{
+					element.classList.add(classname)
+				});					
+				};
+
 				element.innerHTML=` <div class="menu__item">
                     <img src=${this.src} alt=${this.alt}>
                     <h3 class="menu__item-subtitle">${this.title}</h3>
@@ -161,11 +171,45 @@ window.addEventListener("DOMContentLoaded",()=>{
                         <div class="menu__item-total"><span>${this.price}</span> ${this.currency}/день</div>
                     </div>
                 </div>`;
+                
 				this.parentElement.append(element)
 			}	
 		}
 
 		 new MenuCard(
+			"img/tabs/elite.jpg",
+			"elite",
+			'Меню "Фитнес"',
+			"Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
+			360,
+			"Руб",
+			2.6872,
+			".menu .container"
+
+			).render();
+		  new MenuCard(
+			"img/tabs/elite.jpg",
+			"elite",
+			'Меню "Фитнес"',
+			"Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
+			360,
+			"Руб",
+			2.6872,
+			".menu .container"
+
+			).render();
+		   new MenuCard(
+			"img/tabs/elite.jpg",
+			"elite",
+			'Меню "Фитнес"',
+			"Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
+			360,
+			"Руб",
+			2.6872,
+			".menu .container"
+
+			).render();
+		    new MenuCard(
 			"img/tabs/elite.jpg",
 			"elite",
 			'Меню "Фитнес"',
