@@ -88,18 +88,20 @@ window.addEventListener("DOMContentLoaded",()=>{
 		};
 		const modalTrigger = document.querySelectorAll("[data-modal]");
 		const modal = document.querySelector(".modal");
-		const modalclose = document.querySelector("[data-close]");
+		//const modalclose = document.querySelector("[data-close]");
 
 		
 		modalTrigger.forEach((el)=>{
 			el.addEventListener("click", showmodal);
 		});
 
-		modalclose.addEventListener("click", closemodal);
+		//modalclose.addEventListener("click", closemodal);
+
+
 		modal.addEventListener("click",(el)=>{
-			if(el.target === modal){
-				closemodal();
-				window.removeEventListener("scroll",ShowModalByScroll);				
+			if(el.target === modal || el.target.getAttribute("data-close")==""){
+				
+				closemodal();								
 			}
 		});
 		document.addEventListener('keydown',(el) => {
@@ -118,13 +120,15 @@ window.addEventListener("DOMContentLoaded",()=>{
 		function closemodal() {
 			modal.style.display = "none";
 			document.body.style.overflow = "";
+			window.removeEventListener("scroll",ShowModalByScroll);
+
 		};
 		function ShowModalByScroll() {
 			if(window.pageYOffset + document.documentElement.clientHeight >= document.documentElement.scrollHeight)
 				showmodal();
 		};
 		
-		const modaltimer = setTimeout(showmodal,22000);
+		const modaltimer = setTimeout(showmodal,60000);
 
 		window.addEventListener("scroll",ShowModalByScroll);
 
@@ -220,4 +224,83 @@ window.addEventListener("DOMContentLoaded",()=>{
 			".menu .container"
 
 			).render();
+
+		    // forms формы заполнения 
+		     const forms = document.querySelectorAll("form");
+
+		     const errorMessage = {
+		     	loading: "animations/spinner.svg",
+		     	success: "Данные переданны, ожидайте звонка",
+		     	failure: "Вы проиграли"
+		     };
+
+		     forms.forEach( item =>{
+		     	formPost(item);
+		     })
+
+		     function formPost(form){
+		     	form.addEventListener("submit",function submitingData(item){
+		     		item.preventDefault();
+
+		     		const statusError = document.createElement('img');
+		     		statusError.src = errorMessage.loading;
+		     		statusError.style.cssText = `
+		     		display: block;
+		     		margin: 0 auto;
+		     		`
+		     		//statusError.textContent = errorMessage.loading;
+		     		form.append(statusError);
+		     		
+		     		const request = new XMLHttpRequest();
+		     		request.open("POST", "php/server.php");
+
+		     		//request.setRequestHeader("Content-type", "multipart/form-data");
+		     		const formData = new FormData(form);
+
+		     		request.send(formData);
+
+		     		console.log(formData);
+
+		     		request.addEventListener("load",()=>{
+		     			if(request.status === 200){
+		     				console.log(request.response);	
+		     				showMessageModal(errorMessage.success);
+		     				// form.removeEventListener("submit", submitingData);
+		     				form.reset();
+			     				statusError.remove()
+
+		     			}else{
+		     				showMessageModal(errorMessage.failure);
+		     				
+		     			}
+		     		})
+		     	})
+		     };
+
+
+
+
+		     //Модольное окно после отправки формы 
+
+		function showMessageModal(message) {
+		     	const pervModalDialog = document.querySelector(".modal__dialog");
+
+		     	pervModalDialog.style.display = "none";
+		     	showmodal();
+
+		     	const ModalMessage = document.createElement("div");
+		     	ModalMessage.style.display = "block";
+		     	ModalMessage.innerHTML = `
+		     	<div class="modal__content">
+		     		<div class="modal__close">&times;</div>
+		     		<div class="modal__title">${message}</div>
+		     	</div>`
+
+		     	document.querySelector(".modal").append(ModalMessage);
+		     	setTimeout(()=>{
+		     		ModalMessage.remove();
+		     		pervModalDialog.style.display = "block";
+		     		closemodal();
+		     	},4000);
+		     }     
 	}); 
