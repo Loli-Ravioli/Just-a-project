@@ -1,0 +1,858 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"console"
+			],
+			[
+				"j",
+				"JSON"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"fi",
+				"function"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"pro",
+				"Promise"
+			],
+			[
+				"se",
+				"setTimeout"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"p",
+				"product"
+			],
+			[
+				"sett",
+				"setTimeout"
+			],
+			[
+				"Mo",
+				"modal__content"
+			],
+			[
+				"mo",
+				"modal__dialog"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"show",
+				"showMessageModal"
+			],
+			[
+				"c",
+				"closemodal"
+			],
+			[
+				"moda",
+				"ModalMessage"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"setT",
+				"setTimeout"
+			],
+			[
+				"sta",
+				"statusError"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"_",
+				"$_POST"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"m",
+				"menu__item"
+			],
+			[
+				"in",
+				"inexdup"
+			],
+			[
+				"ge",
+				"getRandomInt"
+			],
+			[
+				"g",
+				"getRandomInt"
+			],
+			[
+				"f",
+				"fun"
+			],
+			[
+				"removeE",
+				"removeEventListener"
+			],
+			[
+				"fu",
+				"fun"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"page",
+				"pageYOffset"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"tim",
+				"timeinterval"
+			],
+			[
+				"get",
+				"getTimeReamain"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"h",
+				"hours"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"dae",
+				"deadtime"
+			],
+			[
+				"dead",
+				"deadtime"
+			],
+			[
+				"dea",
+				"deadtime"
+			],
+			[
+				"pa",
+				"parse"
+			],
+			[
+				"e",
+				"endtime"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"ter",
+				"target"
+			],
+			[
+				"ta",
+				"tabparent"
+			],
+			[
+				"cls",
+				"classList"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"tab",
+				"tabscontent"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ev",
+				"addEventListener"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"Style",
+				"setStylePosition"
+			],
+			[
+				"poin",
+				"pointerup"
+			],
+			[
+				"poi",
+				"pointerdown"
+			],
+			[
+				"drag",
+				"dargShift"
+			],
+			[
+				"t",
+				"transform"
+			],
+			[
+				"cur",
+				"currentSlide"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"de",
+				"destroyEvents"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"s",
+				"static\tposition"
+			],
+			[
+				"tra",
+				"translate3d"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"ca",
+				"classList"
+			],
+			[
+				"ch",
+				"childNode"
+			],
+			[
+				"li",
+				"lineNode"
+			],
+			[
+				"G",
+				"GalleryClassname"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"ali",
+				"alignment-baseline\tproperty"
+			],
+			[
+				"ga",
+				"gallery"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"cu",
+				"currentWidth"
+			],
+			[
+				"mas",
+				"MasonryAtciveClassName"
+			],
+			[
+				"he",
+				"heigth"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"top",
+				"topSets"
+			],
+			[
+				"si",
+				"sizeColumns"
+			],
+			[
+				"hei",
+				"heigthColumns"
+			],
+			[
+				"chi",
+				"childrenData"
+			],
+			[
+				"or",
+				"origWidth"
+			],
+			[
+				"chil",
+				"child"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"вд",
+				"Водопад"
+			],
+			[
+				"mat",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"P",
+				"Pawn"
+			],
+			[
+				"paw",
+				"Pawn"
+			],
+			[
+				"te",
+				"team"
+			],
+			[
+				"tea",
+				"team"
+			],
+			[
+				"bac",
+				"background_map"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"colo",
+				"color_allowed_moves"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"u",
+				"ultra-condensed\tfont-stretch"
+			],
+			[
+				"coor",
+				"coor_x"
+			],
+			[
+				"coo",
+				"coor_x"
+			],
+			[
+				"al",
+				"allowed_moves"
+			],
+			[
+				"coor_",
+				"coor_x"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"ar",
+				"arr2"
+			],
+			[
+				"l",
+				"location"
+			],
+			[
+				"U",
+				"U"
+			],
+			[
+				"Y",
+				"Y"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 12282,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 9605,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 546,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/OpenServer/domains/Just-a-project",
+		"/E/OpenServer/domains/Just-a-project/js"
+	],
+	"file_history":
+	[
+		"/E/OpenServer/domains/Just-a-project/package-lock.json",
+		"/C/openserver/domains/Just-a-project/JSON_Server.json",
+		"/C/openserver/domains/Just-a-project/package.json",
+		"/C/openserver/domains/Just-a-project/package-lock.json",
+		"/C/openserver/domains/Just-a-project/php/server.php",
+		"/C/openserver/domains/Just-a-project/TestProject.sublime-project",
+		"/C/openserver/domains/Just-a-project/js/JSON_Server.json",
+		"/C/openserver/domains/Just-a-project/js/script.js",
+		"/C/openserver/domains/Just-a-project/index.html",
+		"/C/OpenServer/domains/Just-a-project/js/JSON_Server.json",
+		"/C/OpenServer/domains/Just-a-project/js/script.js",
+		"/C/OpenServer/domains/Just-a-project/php/server.php",
+		"/C/OpenServer/domains/Just-a-project/index.html",
+		"/C/OpenServer/domains/datetime/script.js",
+		"/C/openserver/domains/datetime/script.js",
+		"/C/openserver/domains/datetime/index.html",
+		"/C/openserver/domains/datetime/current.json",
+		"/C/Users/sporo/Desktop/Proger shit/Практика по курсам/datetime/current.json",
+		"/C/Users/sporo/Desktop/Proger shit/Практика по курсам/datetime/script.js",
+		"/C/Users/sporo/Desktop/Proger shit/Практика по курсам/datetime/index.html",
+		"/C/Users/sporo/AppData/Local/Temp/Rar$DRa17248.17082/calc/index.html",
+		"/C/Users/sporo/Desktop/Proger shit/Практика по курсам/Just a project/js/script.js",
+		"/C/Users/sporo/Desktop/Proger shit/Практика по курсам/Just a project/index.html",
+		"/C/Users/sporo/AppData/Local/Temp/Rar$DRa15240.7536/calc/index.html",
+		"/E/js_try/SAS/youtube_travel_layout-main/src/index.pug",
+		"/C/Users/sporo/Desktop/Практика по курсам/Just a project/index.html",
+		"/C/Users/sporo/Desktop/Практика по курсам/Just a project/js/script.js",
+		"/C/Users/sporo/Desktop/Практика по курсам/datetime/script.js",
+		"/C/Users/sporo/Desktop/Практика по курсам/datetime/index.html",
+		"/C/Users/sporo/Desktop/Практика по курсам/tabs/css/style.css",
+		"/C/Users/sporo/Desktop/Практика по курсам/tabs/js/script.js",
+		"/C/Users/sporo/Desktop/Практика по курсам/tabs/index.html",
+		"/C/Users/sporo/AppData/Local/Temp/Rar$DRa2500.36950/elements/index.html",
+		"/C/Users/sporo/AppData/Local/Temp/Rar$DRa2500.36420/elements/js/script.js",
+		"/C/Users/sporo/Desktop/the-code-of-one-Indian-from-russia-main/GameObjects.js",
+		"/C/Users/sporo/Desktop/the-code-of-one-Indian-from-russia-main/main.js",
+		"/C/Users/sporo/Desktop/Gallery/gallery-lib/gallery.js",
+		"/C/Users/sporo/Desktop/Masonry/js/Script.js",
+		"/C/Users/sporo/Desktop/Masonry/masonry-lib/masonry.js",
+		"/C/Users/sporo/Desktop/Masonry/Script.js",
+		"/C/Users/sporo/Desktop/Практика по курсам/tabs/038 Food-dist.zip",
+		"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/02 Основы JavaScript/033 script.js",
+		"/C/Users/sporo/Desktop/Практика по курсам/script.js",
+		"/C/Users/sporo/Desktop/Практика по курсам/index.html",
+		"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/02 Основы JavaScript/024 script.js",
+		"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/02 Основы JavaScript/015 script.js",
+		"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/02 Основы JavaScript/018 script.js",
+		"/C/Users/sporo/Desktop/Masonry/Index.html",
+		"/C/Users/sporo/Desktop/Gallery/gallery-lib/gallery.css",
+		"/C/Users/sporo/Desktop/Gallery/index.html",
+		"/C/Users/sporo/Desktop/Gallery/index.css",
+		"/C/Users/sporo/Desktop/Gallery/script.js",
+		"/C/Users/sporo/Desktop/Masonry/masonry-lib/masonry.css",
+		"/C/Users/sporo/Desktop/Masonry/css/reset.css",
+		"/C/Users/sporo/Desktop/Masonry/css/index.css",
+		"/C/Users/sporo/Desktop/Masonry/Style.css",
+		"/C/Users/sporo/Desktop/Masonry/css/masonry.css",
+		"/C/Users/sporo/Desktop/Masonry/masonry.js",
+		"/C/Users/sporo/Desktop/JQ/index.html",
+		"/C/Users/sporo/Desktop/JQ/js/main.js",
+		"/C/Users/sporo/Desktop/JQ/css/main.css",
+		"/E/js_try/Focking_Chess_board/main.js",
+		"/E/js_try/Focking_Chess_board/GameObjects.js",
+		"/E/js_try/JS_regexp/ругулярочи.html",
+		"/E/js_try/JS_regexp/reg_script.js",
+		"/E/js_try/JS_regexp/css_reg.css",
+		"/E/js_try/SAS/youtube_travel_layout-main/package-lock.json",
+		"/E/js_try/SAS/youtube_travel_layout-main/gulpfile.js",
+		"/E/js_try/SAS/youtube_travel_layout-main/.gitignore",
+		"/E/js_try/SAS/youtube_travel_layout-main/README.md",
+		"/E/js_try/SAS/youtube_travel_layout-main/package.json",
+		"/E/js_try/SAS/youtube_travel_layout-main/Makefile",
+		"/E/js_try/Verstka_xyerstka/README.md",
+		"/E/js_try/Verstka_xyerstka/package-lock.json",
+		"/E/js_try/Verstka_xyerstka/package.json",
+		"/E/js_try/Verstka_xyerstka/Makefile",
+		"/E/js_try/Verstka_xyerstka/.gitignore",
+		"/E/js_try/Verstka_xyerstka/gulpfile.js",
+		"/E/js_try/JS_regexp/reg_script",
+		"/E/js_try/Focking_Chess_board/index.html",
+		"/E/js_try/JS_regexp/script",
+		"/E/js_try/JS_тестовые_рыгалы/script",
+		"/E/js_try/JS_тестовые_рыгалы/ругулярочи.html",
+		"/E/js_try/Focking_Chess_board/style.css",
+		"/E/js_try/Focking_Chess_board/Locator.js",
+		"/C/Users/sporo/Desktop/pixi.min.js",
+		"/E/js_try/Focking_Chess_board/CSS-5.css",
+		"/E/js_try/Focking_Chess_board/Script-5.js",
+		"/E/js_try/Focking_Chess_board/HW-5.html",
+		"/E/js_try/js/домашка/HW5/CSS-5.css",
+		"/E/js_try/js/домашка/HW5/Script-5.js",
+		"/E/js_try/js/домашка/HW5/HW-5.html",
+		"/E/js_try/js/домашка/ХОУМВОРК.html",
+		"/E/js_try/js/домашка/Домашка4.html",
+		"/E/js_try/js/домашка/HW_lesson-3.html",
+		"/E/js_try/js/домашка/script_for_lesson-3.js",
+		"/E/js_try/HW-2.1.html",
+		"/D/ZAGRUZ/script for lesson 3",
+		"/E/js_try/HW-2.html",
+		"/D/ZAGRUZ/HW-1.html",
+		"/E/js_try/lesson_6.html",
+		"/E/js_try/lesson_6_js.js",
+		"/E/js_try/lesson_66"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/script.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TestProject.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 323.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

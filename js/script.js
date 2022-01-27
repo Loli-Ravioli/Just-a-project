@@ -229,7 +229,7 @@
 			    const forms = document.querySelectorAll("form");
 
 			    const errorMessage = {
-			    	loading: "animations/spinner.svg",
+			    	loading: "img/animation/spinner.svg",
 			    	success: "Данные переданны, ожидайте звонка",
 			    	failure: "Что-то пошло не так, повторите попытку"
 			    };
@@ -266,6 +266,8 @@
 			     		formData.forEach(function(value,key){
 			     			formDataObj[key]=value;
 			     		});
+
+			     		console.log(formDataObj)
 
 			     		fetch("php/server.php",{
 			     			method:"POST",
@@ -331,5 +333,8 @@
 			     	},3000);
 			     } 
 
+			     fetch("db.json")
+			     .then(data => data.json())
+			     .then(res => console.log(res));
 			     	
 			 }); 
