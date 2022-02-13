@@ -4,24 +4,152 @@
 		"selected_items":
 		[
 			[
-				"co",
+				"con",
 				"console"
 			],
 			[
-				"j",
-				"JSON"
+				"l",
+				"localStorage"
+			],
+			[
+				"g",
+				"getAttribute"
 			],
 			[
 				"cons",
 				"console"
 			],
 			[
-				"fi",
-				"function"
+				"in",
+				"input"
+			],
+			[
+				"f",
+				"female"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ge",
+				"getAttribute"
+			],
+			[
+				"c",
+				"classList"
 			],
 			[
 				"for",
 				"forEach"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"a",
+				"age"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ch",
+				"changed"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"sdl",
+				"slideTo"
+			],
+			[
+				"sl",
+				"slideTo"
+			],
+			[
+				"data",
+				"data-slide-to"
+			],
+			[
+				"slid",
+				"slideIndex"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"ca",
+				"classList"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"sli",
+				"slideIndex"
+			],
+			[
+				"cur",
+				"current"
+			],
+			[
+				"S",
+				"slides"
+			],
+			[
+				"sdli",
+				"slidesField"
+			],
+			[
+				"slide",
+				"slidesWrapper"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"show",
+				"showSlides"
+			],
+			[
+				"fo",
+				"forEach"
+			],
+			[
+				"cosn",
+				"console"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"j",
+				"JSON"
+			],
+			[
+				"fi",
+				"function"
 			],
 			[
 				"pro",
@@ -32,15 +160,7 @@
 				"setTimeout"
 			],
 			[
-				"re",
-				"return"
-			],
-			[
 				"pr",
-				"product"
-			],
-			[
-				"p",
 				"product"
 			],
 			[
@@ -58,14 +178,6 @@
 			[
 				"st",
 				"style"
-			],
-			[
-				"show",
-				"showMessageModal"
-			],
-			[
-				"c",
-				"closemodal"
 			],
 			[
 				"moda",
@@ -88,16 +200,8 @@
 				"statusError"
 			],
 			[
-				"con",
-				"console"
-			],
-			[
 				"el",
 				"else"
-			],
-			[
-				"fo",
-				"form"
 			],
 			[
 				"_",
@@ -116,22 +220,6 @@
 				"menu__item"
 			],
 			[
-				"in",
-				"inexdup"
-			],
-			[
-				"ge",
-				"getRandomInt"
-			],
-			[
-				"g",
-				"getRandomInt"
-			],
-			[
-				"f",
-				"fun"
-			],
-			[
 				"removeE",
 				"removeEventListener"
 			],
@@ -148,10 +236,6 @@
 				"pageYOffset"
 			],
 			[
-				"ad",
-				"addEventListener"
-			],
-			[
 				"q",
 				"querySelector"
 			],
@@ -166,14 +250,6 @@
 			[
 				"qu",
 				"querySelector"
-			],
-			[
-				"h",
-				"hours"
-			],
-			[
-				"to",
-				"toString"
 			],
 			[
 				"dae",
@@ -256,10 +332,6 @@
 				"transform"
 			],
 			[
-				"cur",
-				"currentSlide"
-			],
-			[
 				"add",
 				"addEventListener"
 			],
@@ -272,24 +344,12 @@
 				"width\tproperty"
 			],
 			[
-				"s",
-				"static\tposition"
-			],
-			[
 				"tra",
 				"translate3d"
 			],
 			[
 				"o",
 				"overflow\tproperty"
-			],
-			[
-				"ca",
-				"classList"
-			],
-			[
-				"ch",
-				"childNode"
 			],
 			[
 				"li",
@@ -322,14 +382,6 @@
 			[
 				"mas",
 				"MasonryAtciveClassName"
-			],
-			[
-				"he",
-				"heigth"
-			],
-			[
-				"w",
-				"width"
 			],
 			[
 				"top",
@@ -378,10 +430,6 @@
 			[
 				"i",
 				"img\tTag"
-			],
-			[
-				"a",
-				"alt\tAttr"
 			],
 			[
 				"va",
@@ -452,10 +500,6 @@
 				"arr2"
 			],
 			[
-				"l",
-				"location"
-			],
-			[
 				"U",
 				"U"
 			],
@@ -468,29 +512,175 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "/C/Users/sporo/Desktop/index.html",
 			"settings":
 			{
-				"buffer_size": 12282,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/script.js",
-			"settings":
-			{
-				"buffer_size": 9605,
+				"buffer_size": 798,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "package.json",
+			"file": "/C/Users/sporo/Desktop/script.js",
 			"settings":
 			{
-				"buffer_size": 546,
+				"buffer_size": 1729,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					1,
+					"toggle_comment",
+					{
+						"block": true
+					},
+					"AgAAAO0DAAAAAAAA7wMAAAAAAAAAAAAADgAAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO0DAAAAAAAADgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					15,
+					2,
+					"left_delete",
+					null,
+					"AgAAAKEAAAAAAAAAoQAAAAAAAAABAAAAL6AAAAAAAAAAoAAAAAAAAAABAAAAKg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKIAAAAAAAAAogAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAO8DAAAAAAAA8AMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO8DAAAAAAAA7wMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					21,
+					1,
+					"paste",
+					null,
+					"AQAAAPADAAAAAAAAEwYAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPADAAAAAAAA8AMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					24,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPADAAAAAAAA8AMAAAAAAAANAAAAJ3VzZSBzdHJpY3QnOw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAP0DAAAAAAAA8AMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					48,
+					1,
+					"toggle_comment",
+					{
+						"block": true
+					},
+					"AgAAAAUGAAAAAAAABwYAAAAAAAAAAAAA8gMAAAAAAAD0AwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAUGAAAAAAAA8gMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAAkGAAAAAAAACgYAAAAAAAAAAAAACgYAAAAAAAALBgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAkGAAAAAAAACQYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					52,
+					1,
+					"paste",
+					null,
+					"AQAAAAsGAAAAAAAAbAYAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAsGAAAAAAAACwYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					67,
+					1,
+					"paste",
+					null,
+					"AgAAAAsGAAAAAAAAlwYAAAAAAAAAAAAAlwYAAAAAAACXBgAAAAAAAGEAAAAgZm9yICh2YXIgaSA9IDA7IGkgPCAxMDsgaSsrKSB7CiAgICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgeyBjb25zb2xlLmxvZyhpKTsgfSwgMCk7CiAgICB9",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGwGAAAAAAAACwYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": "m="
+					},
+					"AgAAAGkGAAAAAAAAagYAAAAAAAAAAAAAagYAAAAAAABrBgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGkGAAAAAAAAaQYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					122,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAGsGAAAAAAAAbAYAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGsGAAAAAAAAawYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					125,
+					2,
+					"left_delete",
+					null,
+					"AgAAAGsGAAAAAAAAawYAAAAAAAABAAAAMWoGAAAAAAAAagYAAAAAAAABAAAAPQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGwGAAAAAAAAbAYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					136,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGkGAAAAAAAAaQYAAAAAAAABAAAAbQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGoGAAAAAAAAagYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					162,
+					1,
+					"paste",
+					null,
+					"AgAAAAwGAAAAAAAAZgYAAAAAAAAAAAAAZgYAAAAAAABmBgAAAAAAAIwAAAAgIGZvciAodmFyIGkgPSAwOyBpIDwgMTA7IGkrKykgeyAgIAogICAgICAgIChmdW5jdGlvbiAobSkgewogICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsgY29uc29sZS5sb2cobSk7IH0sMCk7CiAgICAgICAgfSkoaSkgCiAgICB9Cg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJgGAAAAAAAADAYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					165,
+					1,
+					"paste",
+					null,
+					"AgAAAAwGAAAAAAAAvwYAAAAAAAAAAAAAvwYAAAAAAAC/BgAAAAAAAFoAAABsZXQgbmFtZSA9ICJKb2huIjsKCmZ1bmN0aW9uIHNheUhpKCkgewogIGFsZXJ0KCJIaSwgIiArIG5hbWUpOwp9CgpuYW1lID0gIlBldGUiOwoKc2F5SGkoKTs",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGYGAAAAAAAADAYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					241,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAACUGAAAAAAAAJgYAAAAAAAAAAAAAJgYAAAAAAAAnBgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACUGAAAAAAAAJQYAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/sporo/Desktop/Proger shit/Gallery/gallery-lib/gallery.js",
+			"settings":
+			{
+				"buffer_size": 4153,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -531,10 +721,24 @@
 	"expanded_folders":
 	[
 		"/E/OpenServer/domains/Just-a-project",
+		"/E/OpenServer/domains/Just-a-project/css",
 		"/E/OpenServer/domains/Just-a-project/js"
 	],
 	"file_history":
 	[
+		"/C/Users/sporo/Desktop/Proger shit/Gallery/script.js",
+		"/C/Users/sporo/Desktop/Proger shit/Masonry/masonry-lib/masonry.js",
+		"/C/Users/sporo/Desktop/Proger shit/Masonry/js/Script.js",
+		"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/04 Продвинутый JavaScript/069 script.js",
+		"/E/OpenServer/domains/Just-a-project/index.html",
+		"/E/OpenServer/domains/Just-a-project/js/script.js",
+		"/C/Users/sporo/Desktop/script.js",
+		"/C/Users/sporo/Desktop/index.html",
+		"/C/Users/sporo/Desktop/style.css",
+		"/E/OpenServer/domains/Just-a-project/package.json",
+		"/E/OpenServer/domains/Just-a-project/css/style.css",
+		"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/03 JavaScript в работе/asdasd/css/style.css",
+		"/E/OpenServer/domains/Just-a-project/db.json",
 		"/E/OpenServer/domains/Just-a-project/package-lock.json",
 		"/C/openserver/domains/Just-a-project/JSON_Server.json",
 		"/C/openserver/domains/Just-a-project/package.json",
@@ -641,7 +845,7 @@
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -678,19 +882,20 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/C/Users/sporo/Desktop/index.html",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12282,
+						"buffer_size": 798,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								798,
+								798
 							]
 						],
 						"settings":
@@ -703,26 +908,25 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "js/script.js",
-					"selected": true,
+					"file": "/C/Users/sporo/Desktop/script.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9605,
+						"buffer_size": 1729,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1575,
+								1575
 							]
 						],
 						"settings":
@@ -732,41 +936,41 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 598.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "package.json",
+					"file": "/C/Users/sporo/Desktop/Proger shit/Gallery/gallery-lib/gallery.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 546,
+						"buffer_size": 4153,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								4153,
+								4153
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JSON/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1666.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -775,7 +979,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 22.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -812,7 +1016,7 @@
 	"project": "TestProject.sublime-project",
 	"replace":
 	{
-		"height": 40.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -850,7 +1054,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 198.0,
+	"side_bar_width": 65.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
