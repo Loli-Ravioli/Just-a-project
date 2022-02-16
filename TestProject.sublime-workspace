@@ -512,176 +512,188 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/sporo/Desktop/index.html",
+			"file": "/E/Develop/script.js",
+			"redo_stack":
+			[
+				[
+					8,
+					1,
+					"right_delete",
+					null,
+					"AQAAAM4BAAAAAAAAzwEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADOAQAAAAAAAM4BAAAAAAAAAAAAAAAA8L8"
+				]
+			],
 			"settings":
 			{
-				"buffer_size": 798,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/sporo/Desktop/script.js",
-			"settings":
-			{
-				"buffer_size": 1729,
+				"buffer_size": 545,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
 				[
-					10,
+					13,
 					1,
-					"toggle_comment",
+					"left_delete",
+					null,
+					"AQAAAIMAAAAAAAAAgwAAAAAAAAALAAAAUGV0cnljaGVua28",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACDAAAAAAAAAI4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"insert",
 					{
-						"block": true
+						"characters": "Son"
 					},
-					"AgAAAO0DAAAAAAAA7wMAAAAAAAAAAAAADgAAAAAAAAAQAAAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO0DAAAAAAAADgAAAAAAAAAAAAAAAADwvw"
+					"AwAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACDAAAAAAAAAIMAAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					15,
-					2,
+					1,
+					"insert",
+					{
+						"characters": " of"
+					},
+					"AwAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIkAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACGAAAAAAAAAIYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIkAAAAAAAAAigAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACJAAAAAAAAAIkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					4,
 					"left_delete",
 					null,
-					"AgAAAKEAAAAAAAAAoQAAAAAAAAABAAAAL6AAAAAAAAAAoAAAAAAAAAABAAAAKg",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKIAAAAAAAAAogAAAAAAAAAAAAAAAADwvw"
+					"BAAAAIkAAAAAAAAAiQAAAAAAAAABAAAAIIgAAAAAAAAAiAAAAAAAAAABAAAAZocAAAAAAAAAhwAAAAAAAAABAAAAb4YAAAAAAAAAhgAAAAAAAAABAAAAIA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACKAAAAAAAAAIoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					3,
+					"left_delete",
+					null,
+					"AwAAAIUAAAAAAAAAhQAAAAAAAAABAAAAboQAAAAAAAAAhAAAAAAAAAABAAAAb4MAAAAAAAAAgwAAAAAAAAABAAAAUw",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACGAAAAAAAAAIYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "Drado"
+					},
+					"BQAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACDAAAAAAAAAIMAAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					20,
 					1,
 					"insert",
 					{
-						"characters": "\n"
+						"characters": "vich"
 					},
-					"AQAAAO8DAAAAAAAA8AMAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO8DAAAAAAAA7wMAAAAAAAAAAAAAAADwvw"
+					"BAAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACKAAAAAAAAAAAAAACKAAAAAAAAAIsAAAAAAAAAAAAAAIsAAAAAAAAAjAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAAA8L8"
 				],
 				[
-					21,
+					25,
 					1,
-					"paste",
-					null,
-					"AQAAAPADAAAAAAAAEwYAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPADAAAAAAAA8AMAAAAAAAAAAAAAAADwvw"
+					"insert",
+					{
+						"characters": "IVAN"
+					},
+					"BQAAABUCAAAAAAAAFgIAAAAAAAAAAAAAFgIAAAAAAAAWAgAAAAAAAAQAAABJdmFuFgIAAAAAAAAXAgAAAAAAAAAAAAAXAgAAAAAAABgCAAAAAAAAAAAAABgCAAAAAAAAGQIAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAVAgAAAAAAABkCAAAAAAAAAAAAAAAA8L8"
 				],
 				[
-					24,
-					1,
+					26,
+					3,
 					"left_delete",
 					null,
-					"AQAAAPADAAAAAAAA8AMAAAAAAAANAAAAJ3VzZSBzdHJpY3QnOw",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAP0DAAAAAAAA8AMAAAAAAAAAAAAAAADwvw"
+					"AwAAABgCAAAAAAAAGAIAAAAAAAABAAAAThcCAAAAAAAAFwIAAAAAAAABAAAAQRYCAAAAAAAAFgIAAAAAAAABAAAAVg",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZAgAAAAAAABkCAAAAAAAAAAAAAAAA8L8"
 				],
 				[
-					48,
-					1,
-					"toggle_comment",
-					{
-						"block": true
-					},
-					"AgAAAAUGAAAAAAAABwYAAAAAAAAAAAAA8gMAAAAAAAD0AwAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAUGAAAAAAAA8gMAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					51,
+					27,
 					1,
 					"insert",
 					{
-						"characters": "\n\n"
+						"characters": "van"
 					},
-					"AgAAAAkGAAAAAAAACgYAAAAAAAAAAAAACgYAAAAAAAALBgAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAkGAAAAAAAACQYAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					52,
-					1,
-					"paste",
-					null,
-					"AQAAAAsGAAAAAAAAbAYAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAsGAAAAAAAACwYAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					67,
-					1,
-					"paste",
-					null,
-					"AgAAAAsGAAAAAAAAlwYAAAAAAAAAAAAAlwYAAAAAAACXBgAAAAAAAGEAAAAgZm9yICh2YXIgaSA9IDA7IGkgPCAxMDsgaSsrKSB7CiAgICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgeyBjb25zb2xlLmxvZyhpKTsgfSwgMCk7CiAgICB9",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGwGAAAAAAAACwYAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					121,
-					1,
-					"insert",
-					{
-						"characters": "m="
-					},
-					"AgAAAGkGAAAAAAAAagYAAAAAAAAAAAAAagYAAAAAAABrBgAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGkGAAAAAAAAaQYAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					122,
-					1,
-					"insert",
-					{
-						"characters": "1"
-					},
-					"AQAAAGsGAAAAAAAAbAYAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGsGAAAAAAAAawYAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					125,
-					2,
-					"left_delete",
-					null,
-					"AgAAAGsGAAAAAAAAawYAAAAAAAABAAAAMWoGAAAAAAAAagYAAAAAAAABAAAAPQ",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGwGAAAAAAAAbAYAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					136,
-					1,
-					"left_delete",
-					null,
-					"AQAAAGkGAAAAAAAAaQYAAAAAAAABAAAAbQ",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGoGAAAAAAAAagYAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					162,
-					1,
-					"paste",
-					null,
-					"AgAAAAwGAAAAAAAAZgYAAAAAAAAAAAAAZgYAAAAAAABmBgAAAAAAAIwAAAAgIGZvciAodmFyIGkgPSAwOyBpIDwgMTA7IGkrKykgeyAgIAogICAgICAgIChmdW5jdGlvbiAobSkgewogICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsgY29uc29sZS5sb2cobSk7IH0sMCk7CiAgICAgICAgfSkoaSkgCiAgICB9Cg",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJgGAAAAAAAADAYAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					165,
-					1,
-					"paste",
-					null,
-					"AgAAAAwGAAAAAAAAvwYAAAAAAAAAAAAAvwYAAAAAAAC/BgAAAAAAAFoAAABsZXQgbmFtZSA9ICJKb2huIjsKCmZ1bmN0aW9uIHNheUhpKCkgewogIGFsZXJ0KCJIaSwgIiArIG5hbWUpOwp9CgpuYW1lID0gIlBldGUiOwoKc2F5SGkoKTs",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGYGAAAAAAAADAYAAAAAAAAAAAAAAADwvw"
-				],
-				[
-					241,
-					1,
-					"insert",
-					{
-						"characters": "//"
-					},
-					"AgAAACUGAAAAAAAAJgYAAAAAAAAAAAAAJgYAAAAAAAAnBgAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACUGAAAAAAAAJQYAAAAAAAAAAAAAAADwvw"
+					"AwAAABYCAAAAAAAAFwIAAAAAAAAAAAAAFwIAAAAAAAAYAgAAAAAAAAAAAAAYAgAAAAAAABkCAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAWAgAAAAAAABYCAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		},
 		{
-			"file": "/C/Users/sporo/Desktop/Proger shit/Gallery/gallery-lib/gallery.js",
+			"file": "js/script.js",
 			"settings":
 			{
-				"buffer_size": 4153,
+				"buffer_size": 17042,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"contents": "commit 2b96fbba9176703efe90f87e484ab75cbf3c6ed3\nAuthor: Loli-Ravioli <81684400+Loli-Ravioli@users.noreply.github.com>\nDate:   Mon Jan 10 14:18:32 2022 +0300\n\n    Доработал таймер\n\ndiff --git a/js/script.js b/js/script.js\nindex 7da547c..5b04bcf 100644\n--- a/js/script.js\n+++ b/js/script.js\n@@ -32,4 +32,51 @@ window.addEventListener(\"DOMContentLoaded\",()=>{\n \t\t}\n \n \t})\n+\n+\t//timer \n+\t//дедлайн даты таймера \n+\tconst deadlinetime = \"2022-01-12\";\n+\n+\tfunction getTimeReamain(endtime) {\n+\t\tconst t = Date.parse(endtime) - Date.parse(new Date());\n+\t\tconst days = Math.floor(t / (1000*60*60*24));\n+\t\tconst hours = Math.floor((t / (1000*60*60) % 24));\n+\t\tconst mins = Math.floor((t / 1000 / 60) % 60);\n+\t\tconst seconds = Math.floor((t/1000) % 60);\n+\n+\n+\t\treturn{\n+\t\t\t\"total\":t,\n+\t\t\tdays, \n+\t\t\thours,\n+\t\t\tmins,\n+\t\t\tseconds\t\t\t\n+\t\t};\n+\t}\n+\tfunction setTimer(elem,endtime) {\n+\t\tconst timer = document.querySelector(elem);\n+\t\tconst days = timer.querySelector(\"#days\");\n+\t\tconst hours = timer.querySelector(\"#hours\");\n+\t\tconst mins = timer.querySelector(\"#minutes\");\n+\t\tconst seconds = timer.querySelector(\"#seconds\");\n+\t\tlet timeinterval = setInterval(updatetime,1000);\n+\t\t//запуск updatetime раньше чем он запустится через setInterval\n+\t\tupdatetime();\n+\n+\t\tfunction updatetime() {\n+\t\t\t\t\tconst t = getTimeReamain(endtime);\t\t\t\t\t\n+\t\t\t\t\tdays.innerHTML = zeronum(t.days);\n+\t\t\t\t\thours.innerHTML = zeronum(t.hours);\n+\t\t\t\t\tmins.innerHTML = zeronum(t.mins);\t\t\t\t\t\n+\t\t\t\t\tseconds.innerHTML = zeronum(t.seconds);\n+\t\t\t\t\tif(t.total <= 0){\n+\t\t\t\t\t\tclearinetval(timeinterval);\n+\t\t\t\t\t}\n+\t\t\t\t}\t\t\n+\n+\t}\n+\tsetTimer(\".timer\",deadlinetime);\n+\tfunction zeronum(num) {\n+\t\treturn (num >= 0 && num < 10)? `0${num}`: num\n+\t}\n });\n\\ No newline at end of file\n",
+			"settings":
+			{
+				"buffer_size": 1719,
+				"line_ending": "Windows",
+				"name": "Git Commit Details",
+				"read_only": true,
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"git_scratch_output",
+					{
+						"clear": false,
+						"output": "commit 2b96fbba9176703efe90f87e484ab75cbf3c6ed3\nAuthor: Loli-Ravioli <81684400+Loli-Ravioli@users.noreply.github.com>\nDate:   Mon Jan 10 14:18:32 2022 +0300\n\n    Доработал таймер\n\ndiff --git a/js/script.js b/js/script.js\nindex 7da547c..5b04bcf 100644\n--- a/js/script.js\n+++ b/js/script.js\n@@ -32,4 +32,51 @@ window.addEventListener(\"DOMContentLoaded\",()=>{\n \t\t}\n \n \t})\n+\n+\t//timer \n+\t//дедлайн даты таймера \n+\tconst deadlinetime = \"2022-01-12\";\n+\n+\tfunction getTimeReamain(endtime) {\n+\t\tconst t = Date.parse(endtime) - Date.parse(new Date());\n+\t\tconst days = Math.floor(t / (1000*60*60*24));\n+\t\tconst hours = Math.floor((t / (1000*60*60) % 24));\n+\t\tconst mins = Math.floor((t / 1000 / 60) % 60);\n+\t\tconst seconds = Math.floor((t/1000) % 60);\n+\n+\n+\t\treturn{\n+\t\t\t\"total\":t,\n+\t\t\tdays, \n+\t\t\thours,\n+\t\t\tmins,\n+\t\t\tseconds\t\t\t\n+\t\t};\n+\t}\n+\tfunction setTimer(elem,endtime) {\n+\t\tconst timer = document.querySelector(elem);\n+\t\tconst days = timer.querySelector(\"#days\");\n+\t\tconst hours = timer.querySelector(\"#hours\");\n+\t\tconst mins = timer.querySelector(\"#minutes\");\n+\t\tconst seconds = timer.querySelector(\"#seconds\");\n+\t\tlet timeinterval = setInterval(updatetime,1000);\n+\t\t//запуск updatetime раньше чем он запустится через setInterval\n+\t\tupdatetime();\n+\n+\t\tfunction updatetime() {\n+\t\t\t\t\tconst t = getTimeReamain(endtime);\t\t\t\t\t\n+\t\t\t\t\tdays.innerHTML = zeronum(t.days);\n+\t\t\t\t\thours.innerHTML = zeronum(t.hours);\n+\t\t\t\t\tmins.innerHTML = zeronum(t.mins);\t\t\t\t\t\n+\t\t\t\t\tseconds.innerHTML = zeronum(t.seconds);\n+\t\t\t\t\tif(t.total <= 0){\n+\t\t\t\t\t\tclearinetval(timeinterval);\n+\t\t\t\t\t}\n+\t\t\t\t}\t\t\n+\n+\t}\n+\tsetTimer(\".timer\",deadlinetime);\n+\tfunction zeronum(num) {\n+\t\treturn (num >= 0 && num < 10)? `0${num}`: num\n+\t}\n });\n\\ No newline at end of file\n"
+					},
+					"AQAAAAAAAAAAAAAAtwYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "warning: LF will be replaced by CRLF in TestProject.sublime-workspace.\nThe file will have its original line endings in your working directory\ndiff --git a/TestProject.sublime-workspace b/TestProject.sublime-workspace\nindex 1434dc8..a619fbd 100644\n--- a/TestProject.sublime-workspace\n+++ b/TestProject.sublime-workspace\n@@ -512,176 +512,153 @@\n \t\"buffers\":\n \t[\n \t\t{\n-\t\t\t\"file\": \"/C/Users/sporo/Desktop/index.html\",\n-\t\t\t\"settings\":\n-\t\t\t{\n-\t\t\t\t\"buffer_size\": 798,\n-\t\t\t\t\"encoding\": \"UTF-8\",\n-\t\t\t\t\"line_ending\": \"Windows\"\n-\t\t\t}\n-\t\t},\n-\t\t{\n-\t\t\t\"file\": \"/C/Users/sporo/Desktop/script.js\",\n+\t\t\t\"file\": \"/E/Develop/script.js\",\n+\t\t\t\"redo_stack\":\n+\t\t\t[\n+\t\t\t\t[\n+\t\t\t\t\t8,\n+\t\t\t\t\t1,\n+\t\t\t\t\t\"right_delete\",\n+\t\t\t\t\tnull,\n+\t\t\t\t\t\"AQAAAM4BAAAAAAAAzwEAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"AQAAAAAAAAABAAAAzgEAAAAAAADOAQAAAAAAAAAAAAAAAPC/\"\n+\t\t\t\t]\n+\t\t\t],\n \t\t\t\"settings\":\n \t\t\t{\n-\t\t\t\t\"buffer_size\": 1729,\n+\t\t\t\t\"buffer_size\": 545,\n \t\t\t\t\"encoding\": \"UTF-8\",\n \t\t\t\t\"line_ending\": \"Unix\"\n \t\t\t},\n \t\t\t\"undo_stack\":\n \t\t\t[\n \t\t\t\t[\n-\t\t\t\t\t10,\n+\t\t\t\t\t13,\n \t\t\t\t\t1,\n-\t\t\t\t\t\"toggle_comment\",\n-\t\t\t\t\t{\n-\t\t\t\t\t\t\"block\": true\n-\t\t\t\t\t},\n-\t\t\t\t\t\"AgAAAO0DAAAAAAAA7wMAAAAAAAAAAAAADgAAAAAAAAAQAAAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO0DAAAAAAAADgAAAAAAAAAAAAAAAADwvw\"\n-\t\t\t\t],\n-\t\t\t\t[\n-\t\t\t\t\t15,\n-\t\t\t\t\t2,\n \t\t\t\t\t\"left_delete\",\n \t\t\t\t\tnull,\n-\t\t\t\t\t\"AgAAAKEAAAAAAAAAoQAAAAAAAAABAAAAL6AAAAAAAAAAoAAAAAAAAAABAAAAKg\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKIAAAAAAAAAogAAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AQAAAIMAAAAAAAAAgwAAAAAAAAALAAAAUGV0cnljaGVua28\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAgwAAAAAAAACOAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t20,\n+\t\t\t\t\t14,\n \t\t\t\t\t1,\n \t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"characters\": \"\\n\"\n+\t\t\t\t\t\t\"characters\": \"Son\"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AQAAAO8DAAAAAAAA8AMAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO8DAAAAAAAA7wMAAAAAAAAAAAAAAADwvw\"\n-\t\t\t\t],\n-\t\t\t\t[\n-\t\t\t\t\t21,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"paste\",\n-\t\t\t\t\tnull,\n-\t\t\t\t\t\"AQAAAPADAAAAAAAAEwYAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPADAAAAAAAA8AMAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AwAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t24,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"left_delete\",\n-\t\t\t\t\tnull,\n-\t\t\t\t\t\"AQAAAPADAAAAAAAA8AMAAAAAAAANAAAAJ3VzZSBzdHJpY3QnOw\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAP0DAAAAAAAA8AMAAAAAAAAAAAAAAADwvw\"\n-\t\t\t\t],\n-\t\t\t\t[\n-\t\t\t\t\t48,\n+\t\t\t\t\t15,\n \t\t\t\t\t1,\n-\t\t\t\t\t\"toggle_comment\",\n+\t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"block\": true\n+\t\t\t\t\t\t\"characters\": \" of\"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AgAAAAUGAAAAAAAABwYAAAAAAAAAAAAA8gMAAAAAAAD0AwAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAUGAAAAAAAA8gMAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AwAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIkAAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t51,\n+\t\t\t\t\t16,\n \t\t\t\t\t1,\n \t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"characters\": \"\\n\\n\"\n+\t\t\t\t\t\t\"characters\": \" \"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AgAAAAkGAAAAAAAACgYAAAAAAAAAAAAACgYAAAAAAAALBgAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAkGAAAAAAAACQYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AQAAAIkAAAAAAAAAigAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t52,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"paste\",\n+\t\t\t\t\t17,\n+\t\t\t\t\t4,\n+\t\t\t\t\t\"left_delete\",\n \t\t\t\t\tnull,\n-\t\t\t\t\t\"AQAAAAsGAAAAAAAAbAYAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAsGAAAAAAAACwYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"BAAAAIkAAAAAAAAAiQAAAAAAAAABAAAAIIgAAAAAAAAAiAAAAAAAAAABAAAAZocAAAAAAAAAhwAAAAAAAAABAAAAb4YAAAAAAAAAhgAAAAAAAAABAAAAIA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAigAAAAAAAACKAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t67,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"paste\",\n+\t\t\t\t\t18,\n+\t\t\t\t\t3,\n+\t\t\t\t\t\"left_delete\",\n \t\t\t\t\tnull,\n-\t\t\t\t\t\"AgAAAAsGAAAAAAAAlwYAAAAAAAAAAAAAlwYAAAAAAACXBgAAAAAAAGEAAAAgZm9yICh2YXIgaSA9IDA7IGkgPCAxMDsgaSsrKSB7CiAgICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgeyBjb25zb2xlLmxvZyhpKTsgfSwgMCk7CiAgICB9\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGwGAAAAAAAACwYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AwAAAIUAAAAAAAAAhQAAAAAAAAABAAAAboQAAAAAAAAAhAAAAAAAAAABAAAAb4MAAAAAAAAAgwAAAAAAAAABAAAAUw\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t121,\n+\t\t\t\t\t19,\n \t\t\t\t\t1,\n \t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"characters\": \"m=\"\n+\t\t\t\t\t\t\"characters\": \"Drado\"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AgAAAGkGAAAAAAAAagYAAAAAAAAAAAAAagYAAAAAAABrBgAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGkGAAAAAAAAaQYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"BQAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t122,\n+\t\t\t\t\t20,\n \t\t\t\t\t1,\n \t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"characters\": \"1\"\n+\t\t\t\t\t\t\"characters\": \"vich\"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AQAAAGsGAAAAAAAAbAYAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGsGAAAAAAAAawYAAAAAAAAAAAAAAADwvw\"\n-\t\t\t\t],\n-\t\t\t\t[\n-\t\t\t\t\t125,\n-\t\t\t\t\t2,\n-\t\t\t\t\t\"left_delete\",\n-\t\t\t\t\tnull,\n-\t\t\t\t\t\"AgAAAGsGAAAAAAAAawYAAAAAAAABAAAAMWoGAAAAAAAAagYAAAAAAAABAAAAPQ\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGwGAAAAAAAAbAYAAAAAAAAAAAAAAADwvw\"\n-\t\t\t\t],\n-\t\t\t\t[\n-\t\t\t\t\t136,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"left_delete\",\n-\t\t\t\t\tnull,\n-\t\t\t\t\t\"AQAAAGkGAAAAAAAAaQYAAAAAAAABAAAAbQ\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGoGAAAAAAAAagYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"BAAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACKAAAAAAAAAAAAAACKAAAAAAAAAIsAAAAAAAAAAAAAAIsAAAAAAAAAjAAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t162,\n+\t\t\t\t\t25,\n \t\t\t\t\t1,\n-\t\t\t\t\t\"paste\",\n-\t\t\t\t\tnull,\n-\t\t\t\t\t\"AgAAAAwGAAAAAAAAZgYAAAAAAAAAAAAAZgYAAAAAAABmBgAAAAAAAIwAAAAgIGZvciAodmFyIGkgPSAwOyBpIDwgMTA7IGkrKykgeyAgIAogICAgICAgIChmdW5jdGlvbiAobSkgewogICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsgY29uc29sZS5sb2cobSk7IH0sMCk7CiAgICAgICAgfSkoaSkgCiAgICB9Cg\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJgGAAAAAAAADAYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"insert\",\n+\t\t\t\t\t{\n+\t\t\t\t\t\t\"characters\": \"IVAN\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"BQAAABUCAAAAAAAAFgIAAAAAAAAAAAAAFgIAAAAAAAAWAgAAAAAAAAQAAABJdmFuFgIAAAAAAAAXAgAAAAAAAAAAAAAXAgAAAAAAABgCAAAAAAAAAAAAABgCAAAAAAAAGQIAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFQIAAAAAAAAZAgAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t165,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"paste\",\n+\t\t\t\t\t26,\n+\t\t\t\t\t3,\n+\t\t\t\t\t\"left_delete\",\n \t\t\t\t\tnull,\n-\t\t\t\t\t\"AgAAAAwGAAAAAAAAvwYAAAAAAAAAAAAAvwYAAAAAAAC/BgAAAAAAAFoAAABsZXQgbmFtZSA9ICJKb2huIjsKCmZ1bmN0aW9uIHNheUhpKCkgewogIGFsZXJ0KCJIaSwgIiArIG5hbWUpOwp9CgpuYW1lID0gIlBldGUiOwoKc2F5SGkoKTs\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGYGAAAAAAAADAYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AwAAABgCAAAAAAAAGAIAAAAAAAABAAAAThcCAAAAAAAAFwIAAAAAAAABAAAAQRYCAAAAAAAAFgIAAAAAAAABAAAAVg\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGQIAAAAAAAAZAgAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t241,\n+\t\t\t\t\t27,\n \t\t\t\t\t1,\n \t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"characters\": \"//\"\n+\t\t\t\t\t\t\"characters\": \"van\"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AgAAACUGAAAAAAAAJgYAAAAAAAAAAAAAJgYAAAAAAAAnBgAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACUGAAAAAAAAJQYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AwAAABYCAAAAAAAAFwIAAAAAAAAAAAAAFwIAAAAAAAAYAgAAAAAAAAAAAAAYAgAAAAAAABkCAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFgIAAAAAAAAWAgAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t]\n \t\t\t]\n \t\t},\n \t\t{\n-\t\t\t\"file\": \"/C/Users/sporo/Desktop/Proger shit/Gallery/gallery-lib/gallery.js\",\n+\t\t\t\"contents\": \"Package Control Messages\\n========================\\n\\nSublimeLinter-jsxhint\\n---------------------\\n\\n  SublimeLinter-jsxhint\\n  -------------------------------\\n  This linter plugin for SublimeLinter provides an interface to jsxhint.\\n\\n  INSTALLATION\\n  ------------\\n  Before this plugin will activate, you *must* follow the installation\\n  instructions here:\\n\\n  https://github.com/SublimeLinter/SublimeLinter-jsxhint\",\n \t\t\t\"settings\":\n \t\t\t{\n-\t\t\t\t\"buffer_size\": 4153,\n-\t\t\t\t\"encoding\": \"UTF-8\",\n-\t\t\t\t\"line_ending\": \"Windows\"\n-\t\t\t}\n+\t\t\t\t\"buffer_size\": 407,\n+\t\t\t\t\"line_ending\": \"Windows\",\n+\t\t\t\t\"name\": \"Package Control Messages\",\n+\t\t\t\t\"read_only\": true,\n+\t\t\t\t\"scratch\": true\n+\t\t\t},\n+\t\t\t\"undo_stack\":\n+\t\t\t[\n+\t\t\t\t[\n+\t\t\t\t\t1,\n+\t\t\t\t\t1,\n+\t\t\t\t\t\"insert\",\n+\t\t\t\t\t{\n+\t\t\t\t\t\t\"characters\": \"Package Control Messages\\n========================\\n\\nSublimeLinter-jsxhint\\n---------------------\\n\\n  SublimeLinter-jsxhint\\n  -------------------------------\\n  This linter plugin for SublimeLinter provides an interface to jsxhint.\\n\\n  INSTALLATION\\n  ------------\\n  Before this plugin will activate, you *must* follow the installation\\n  instructions here:\\n\\n  https://github.com/SublimeLinter/SublimeLinter-jsxhint\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"GwAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABeAAAAAAAAAAAAAABeAAAAAAAAAF8AAAAAAAAAAAAAAF8AAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAACaAAAAAAAAAOIAAAAAAAAAAAAAAOIAAAAAAAAA4wAAAAAAAAAAAAAA4wAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAPIAAAAAAAAAAAAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA8wAAAAAAAAABAQAAAAAAAAAAAAABAQAAAAAAAAIBAAAAAAAAAAAAAAIBAAAAAAAASAEAAAAAAAAAAAAASAEAAAAAAABJAQAAAAAAAAAAAABJAQAAAAAAAF0BAAAAAAAAAAAAAF0BAAAAAAAAXgEAAAAAAAAAAAAAXgEAAAAAAABfAQAAAAAAAAAAAABfAQAAAAAAAJcBAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/\"\n+\t\t\t\t]\n+\t\t\t]\n \t\t}\n \t],\n \t\"build_system\": \"\",\n@@ -695,6 +672,18 @@\n \t\t\"last_filter\": \"\",\n \t\t\"selected_items\":\n \t\t[\n+\t\t\t[\n+\t\t\t\t\"insta\",\n+\t\t\t\t\"Package Control: Install Package\"\n+\t\t\t],\n+\t\t\t[\n+\t\t\t\t\"install\",\n+\t\t\t\t\"Package Control: Install Package\"\n+\t\t\t],\n+\t\t\t[\n+\t\t\t\t\"pac\",\n+\t\t\t\t\"Package Control: Install Package\"\n+\t\t\t],\n \t\t\t[\n \t\t\t\t\"menu\",\n \t\t\t\t\"View: Toggle Menu\"\n@@ -726,14 +715,17 @@\n \t],\n \t\"file_history\":\n \t[\n+\t\t\"/C/Users/sporo/AppData/Roaming/Sublime Text 3/Packages/ActionScript.sublime-package\",\n+\t\t\"/E/Develop/script.js\",\n+\t\t\"/C/Users/sporo/Desktop/index.html\",\n+\t\t\"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/04 Продвинутый JavaScript/069 script.js\",\n+\t\t\"/C/Users/sporo/Desktop/Proger shit/Gallery/gallery-lib/gallery.js\",\n+\t\t\"/C/Users/sporo/Desktop/script.js\",\n \t\t\"/C/Users/sporo/Desktop/Proger shit/Gallery/script.js\",\n \t\t\"/C/Users/sporo/Desktop/Proger shit/Masonry/masonry-lib/masonry.js\",\n \t\t\"/C/Users/sporo/Desktop/Proger shit/Masonry/js/Script.js\",\n-\t\t\"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/04 Продвинутый JavaScript/069 script.js\",\n \t\t\"/E/OpenServer/domains/Just-a-project/index.html\",\n \t\t\"/E/OpenServer/domains/Just-a-project/js/script.js\",\n-\t\t\"/C/Users/sporo/Desktop/script.js\",\n-\t\t\"/C/Users/sporo/Desktop/index.html\",\n \t\t\"/C/Users/sporo/Desktop/style.css\",\n \t\t\"/E/OpenServer/domains/Just-a-project/package.json\",\n \t\t\"/E/OpenServer/domains/Just-a-project/css/style.css\",\n@@ -882,25 +874,24 @@\n \t\t\t[\n \t\t\t\t{\n \t\t\t\t\t\"buffer\": 0,\n-\t\t\t\t\t\"file\": \"/C/Users/sporo/Desktop/index.html\",\n-\t\t\t\t\t\"selected\": true,\n+\t\t\t\t\t\"file\": \"/E/Develop/script.js\",\n \t\t\t\t\t\"semi_transient\": false,\n \t\t\t\t\t\"settings\":\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"buffer_size\": 798,\n+\t\t\t\t\t\t\"buffer_size\": 545,\n \t\t\t\t\t\t\"regions\":\n \t\t\t\t\t\t{\n \t\t\t\t\t\t},\n \t\t\t\t\t\t\"selection\":\n \t\t\t\t\t\t[\n \t\t\t\t\t\t\t[\n-\t\t\t\t\t\t\t\t798,\n-\t\t\t\t\t\t\t\t798\n+\t\t\t\t\t\t\t\t439,\n+\t\t\t\t\t\t\t\t439\n \t\t\t\t\t\t\t]\n \t\t\t\t\t\t],\n \t\t\t\t\t\t\"settings\":\n \t\t\t\t\t\t{\n-\t\t\t\t\t\t\t\"syntax\": \"Packages/HTML/HTML.sublime-syntax\",\n+\t\t\t\t\t\t\t\"syntax\": \"Packages/JavaScript/JavaScript.sublime-syntax\",\n \t\t\t\t\t\t\t\"tab_size\": 4,\n \t\t\t\t\t\t\t\"translate_tabs_to_spaces\": true\n \t\t\t\t\t\t},\n@@ -908,69 +899,39 @@\n \t\t\t\t\t\t\"translation.y\": 0.0,\n \t\t\t\t\t\t\"zoom_level\": 1.0\n \t\t\t\t\t},\n-\t\t\t\t\t\"stack_index\": 0,\n-\t\t\t\t\t\"stack_multiselect\": false,\n-\t\t\t\t\t\"type\": \"text\"\n-\t\t\t\t},\n-\t\t\t\t{\n-\t\t\t\t\t\"buffer\": 1,\n-\t\t\t\t\t\"file\": \"/C/Users/sporo/Desktop/script.js\",\n-\t\t\t\t\t\"semi_transient\": false,\n-\t\t\t\t\t\"settings\":\n-\t\t\t\t\t{\n-\t\t\t\t\t\t\"buffer_size\": 1729,\n-\t\t\t\t\t\t\"regions\":\n-\t\t\t\t\t\t{\n-\t\t\t\t\t\t},\n-\t\t\t\t\t\t\"selection\":\n-\t\t\t\t\t\t[\n-\t\t\t\t\t\t\t[\n-\t\t\t\t\t\t\t\t1575,\n-\t\t\t\t\t\t\t\t1575\n-\t\t\t\t\t\t\t]\n-\t\t\t\t\t\t],\n-\t\t\t\t\t\t\"settings\":\n-\t\t\t\t\t\t{\n-\t\t\t\t\t\t\t\"syntax\": \"Packages/JavaScript/JavaScript.sublime-syntax\",\n-\t\t\t\t\t\t\t\"tab_size\": 4,\n-\t\t\t\t\t\t\t\"translate_tabs_to_spaces\": false\n-\t\t\t\t\t\t},\n-\t\t\t\t\t\t\"translation.x\": 0.0,\n-\t\t\t\t\t\t\"translation.y\": 598.0,\n-\t\t\t\t\t\t\"zoom_level\": 1.0\n-\t\t\t\t\t},\n \t\t\t\t\t\"stack_index\": 1,\n \t\t\t\t\t\"stack_multiselect\": false,\n \t\t\t\t\t\"type\": \"text\"\n \t\t\t\t},\n \t\t\t\t{\n-\t\t\t\t\t\"buffer\": 2,\n-\t\t\t\t\t\"file\": \"/C/Users/sporo/Desktop/Proger shit/Gallery/gallery-lib/gallery.js\",\n+\t\t\t\t\t\"buffer\": 1,\n+\t\t\t\t\t\"selected\": true,\n \t\t\t\t\t\"semi_transient\": false,\n \t\t\t\t\t\"settings\":\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"buffer_size\": 4153,\n+\t\t\t\t\t\t\"buffer_size\": 407,\n \t\t\t\t\t\t\"regions\":\n \t\t\t\t\t\t{\n \t\t\t\t\t\t},\n \t\t\t\t\t\t\"selection\":\n \t\t\t\t\t\t[\n \t\t\t\t\t\t\t[\n-\t\t\t\t\t\t\t\t4153,\n-\t\t\t\t\t\t\t\t4153\n+\t\t\t\t\t\t\t\t407,\n+\t\t\t\t\t\t\t\t407\n \t\t\t\t\t\t\t]\n \t\t\t\t\t\t],\n \t\t\t\t\t\t\"settings\":\n \t\t\t\t\t\t{\n-\t\t\t\t\t\t\t\"syntax\": \"Packages/JavaScript/JavaScript.sublime-syntax\",\n-\t\t\t\t\t\t\t\"tab_size\": 4,\n-\t\t\t\t\t\t\t\"translate_tabs_to_spaces\": false\n+\t\t\t\t\t\t\t\"auto_indent\": false,\n+\t\t\t\t\t\t\t\"syntax\": \"Packages/Text/Plain text.tmLanguage\",\n+\t\t\t\t\t\t\t\"tab_width\": 2,\n+\t\t\t\t\t\t\t\"word_wrap\": true\n \t\t\t\t\t\t},\n \t\t\t\t\t\t\"translation.x\": 0.0,\n-\t\t\t\t\t\t\"translation.y\": 1666.0,\n+\t\t\t\t\t\t\"translation.y\": 0.0,\n \t\t\t\t\t\t\"zoom_level\": 1.0\n \t\t\t\t\t},\n-\t\t\t\t\t\"stack_index\": 2,\n+\t\t\t\t\t\"stack_index\": 0,\n \t\t\t\t\t\"stack_multiselect\": false,\n \t\t\t\t\t\"type\": \"text\"\n \t\t\t\t}\n@@ -1008,6 +969,14 @@\n \t\t]\n \t},\n \t\"menu_visible\": true,\n+\t\"output.SublimeLinter\":\n+\t{\n+\t\t\"height\": 0.0\n+\t},\n+\t\"output.SublimeLinter Messages\":\n+\t{\n+\t\t\"height\": 102.0\n+\t},\n \t\"output.find_results\":\n \t{\n \t\t\"height\": 0.0\n@@ -1054,7 +1023,7 @@\n \t\"show_open_files\": true,\n \t\"show_tabs\": true,\n \t\"side_bar_visible\": true,\n-\t\"side_bar_width\": 65.0,\n+\t\"side_bar_width\": 230.0,\n \t\"status_bar_visible\": true,\n \t\"template_settings\":\n \t{\n",
+			"settings":
+			{
+				"buffer_size": 15970,
+				"line_ending": "Windows",
+				"name": "Git Diff",
+				"read_only": true,
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"git_scratch_output",
+					{
+						"clear": false,
+						"output": "warning: LF will be replaced by CRLF in TestProject.sublime-workspace.\nThe file will have its original line endings in your working directory\ndiff --git a/TestProject.sublime-workspace b/TestProject.sublime-workspace\nindex 1434dc8..a619fbd 100644\n--- a/TestProject.sublime-workspace\n+++ b/TestProject.sublime-workspace\n@@ -512,176 +512,153 @@\n \t\"buffers\":\n \t[\n \t\t{\n-\t\t\t\"file\": \"/C/Users/sporo/Desktop/index.html\",\n-\t\t\t\"settings\":\n-\t\t\t{\n-\t\t\t\t\"buffer_size\": 798,\n-\t\t\t\t\"encoding\": \"UTF-8\",\n-\t\t\t\t\"line_ending\": \"Windows\"\n-\t\t\t}\n-\t\t},\n-\t\t{\n-\t\t\t\"file\": \"/C/Users/sporo/Desktop/script.js\",\n+\t\t\t\"file\": \"/E/Develop/script.js\",\n+\t\t\t\"redo_stack\":\n+\t\t\t[\n+\t\t\t\t[\n+\t\t\t\t\t8,\n+\t\t\t\t\t1,\n+\t\t\t\t\t\"right_delete\",\n+\t\t\t\t\tnull,\n+\t\t\t\t\t\"AQAAAM4BAAAAAAAAzwEAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"AQAAAAAAAAABAAAAzgEAAAAAAADOAQAAAAAAAAAAAAAAAPC/\"\n+\t\t\t\t]\n+\t\t\t],\n \t\t\t\"settings\":\n \t\t\t{\n-\t\t\t\t\"buffer_size\": 1729,\n+\t\t\t\t\"buffer_size\": 545,\n \t\t\t\t\"encoding\": \"UTF-8\",\n \t\t\t\t\"line_ending\": \"Unix\"\n \t\t\t},\n \t\t\t\"undo_stack\":\n \t\t\t[\n \t\t\t\t[\n-\t\t\t\t\t10,\n+\t\t\t\t\t13,\n \t\t\t\t\t1,\n-\t\t\t\t\t\"toggle_comment\",\n-\t\t\t\t\t{\n-\t\t\t\t\t\t\"block\": true\n-\t\t\t\t\t},\n-\t\t\t\t\t\"AgAAAO0DAAAAAAAA7wMAAAAAAAAAAAAADgAAAAAAAAAQAAAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO0DAAAAAAAADgAAAAAAAAAAAAAAAADwvw\"\n-\t\t\t\t],\n-\t\t\t\t[\n-\t\t\t\t\t15,\n-\t\t\t\t\t2,\n \t\t\t\t\t\"left_delete\",\n \t\t\t\t\tnull,\n-\t\t\t\t\t\"AgAAAKEAAAAAAAAAoQAAAAAAAAABAAAAL6AAAAAAAAAAoAAAAAAAAAABAAAAKg\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKIAAAAAAAAAogAAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AQAAAIMAAAAAAAAAgwAAAAAAAAALAAAAUGV0cnljaGVua28\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAgwAAAAAAAACOAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t20,\n+\t\t\t\t\t14,\n \t\t\t\t\t1,\n \t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"characters\": \"\\n\"\n+\t\t\t\t\t\t\"characters\": \"Son\"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AQAAAO8DAAAAAAAA8AMAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO8DAAAAAAAA7wMAAAAAAAAAAAAAAADwvw\"\n-\t\t\t\t],\n-\t\t\t\t[\n-\t\t\t\t\t21,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"paste\",\n-\t\t\t\t\tnull,\n-\t\t\t\t\t\"AQAAAPADAAAAAAAAEwYAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPADAAAAAAAA8AMAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AwAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t24,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"left_delete\",\n-\t\t\t\t\tnull,\n-\t\t\t\t\t\"AQAAAPADAAAAAAAA8AMAAAAAAAANAAAAJ3VzZSBzdHJpY3QnOw\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAP0DAAAAAAAA8AMAAAAAAAAAAAAAAADwvw\"\n-\t\t\t\t],\n-\t\t\t\t[\n-\t\t\t\t\t48,\n+\t\t\t\t\t15,\n \t\t\t\t\t1,\n-\t\t\t\t\t\"toggle_comment\",\n+\t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"block\": true\n+\t\t\t\t\t\t\"characters\": \" of\"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AgAAAAUGAAAAAAAABwYAAAAAAAAAAAAA8gMAAAAAAAD0AwAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAUGAAAAAAAA8gMAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AwAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIkAAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t51,\n+\t\t\t\t\t16,\n \t\t\t\t\t1,\n \t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"characters\": \"\\n\\n\"\n+\t\t\t\t\t\t\"characters\": \" \"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AgAAAAkGAAAAAAAACgYAAAAAAAAAAAAACgYAAAAAAAALBgAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAkGAAAAAAAACQYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AQAAAIkAAAAAAAAAigAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t52,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"paste\",\n+\t\t\t\t\t17,\n+\t\t\t\t\t4,\n+\t\t\t\t\t\"left_delete\",\n \t\t\t\t\tnull,\n-\t\t\t\t\t\"AQAAAAsGAAAAAAAAbAYAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAsGAAAAAAAACwYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"BAAAAIkAAAAAAAAAiQAAAAAAAAABAAAAIIgAAAAAAAAAiAAAAAAAAAABAAAAZocAAAAAAAAAhwAAAAAAAAABAAAAb4YAAAAAAAAAhgAAAAAAAAABAAAAIA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAigAAAAAAAACKAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t67,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"paste\",\n+\t\t\t\t\t18,\n+\t\t\t\t\t3,\n+\t\t\t\t\t\"left_delete\",\n \t\t\t\t\tnull,\n-\t\t\t\t\t\"AgAAAAsGAAAAAAAAlwYAAAAAAAAAAAAAlwYAAAAAAACXBgAAAAAAAGEAAAAgZm9yICh2YXIgaSA9IDA7IGkgPCAxMDsgaSsrKSB7CiAgICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgeyBjb25zb2xlLmxvZyhpKTsgfSwgMCk7CiAgICB9\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGwGAAAAAAAACwYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AwAAAIUAAAAAAAAAhQAAAAAAAAABAAAAboQAAAAAAAAAhAAAAAAAAAABAAAAb4MAAAAAAAAAgwAAAAAAAAABAAAAUw\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t121,\n+\t\t\t\t\t19,\n \t\t\t\t\t1,\n \t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"characters\": \"m=\"\n+\t\t\t\t\t\t\"characters\": \"Drado\"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AgAAAGkGAAAAAAAAagYAAAAAAAAAAAAAagYAAAAAAABrBgAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGkGAAAAAAAAaQYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"BQAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t122,\n+\t\t\t\t\t20,\n \t\t\t\t\t1,\n \t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"characters\": \"1\"\n+\t\t\t\t\t\t\"characters\": \"vich\"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AQAAAGsGAAAAAAAAbAYAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGsGAAAAAAAAawYAAAAAAAAAAAAAAADwvw\"\n-\t\t\t\t],\n-\t\t\t\t[\n-\t\t\t\t\t125,\n-\t\t\t\t\t2,\n-\t\t\t\t\t\"left_delete\",\n-\t\t\t\t\tnull,\n-\t\t\t\t\t\"AgAAAGsGAAAAAAAAawYAAAAAAAABAAAAMWoGAAAAAAAAagYAAAAAAAABAAAAPQ\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGwGAAAAAAAAbAYAAAAAAAAAAAAAAADwvw\"\n-\t\t\t\t],\n-\t\t\t\t[\n-\t\t\t\t\t136,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"left_delete\",\n-\t\t\t\t\tnull,\n-\t\t\t\t\t\"AQAAAGkGAAAAAAAAaQYAAAAAAAABAAAAbQ\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGoGAAAAAAAAagYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"BAAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACKAAAAAAAAAAAAAACKAAAAAAAAAIsAAAAAAAAAAAAAAIsAAAAAAAAAjAAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t162,\n+\t\t\t\t\t25,\n \t\t\t\t\t1,\n-\t\t\t\t\t\"paste\",\n-\t\t\t\t\tnull,\n-\t\t\t\t\t\"AgAAAAwGAAAAAAAAZgYAAAAAAAAAAAAAZgYAAAAAAABmBgAAAAAAAIwAAAAgIGZvciAodmFyIGkgPSAwOyBpIDwgMTA7IGkrKykgeyAgIAogICAgICAgIChmdW5jdGlvbiAobSkgewogICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsgY29uc29sZS5sb2cobSk7IH0sMCk7CiAgICAgICAgfSkoaSkgCiAgICB9Cg\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJgGAAAAAAAADAYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"insert\",\n+\t\t\t\t\t{\n+\t\t\t\t\t\t\"characters\": \"IVAN\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"BQAAABUCAAAAAAAAFgIAAAAAAAAAAAAAFgIAAAAAAAAWAgAAAAAAAAQAAABJdmFuFgIAAAAAAAAXAgAAAAAAAAAAAAAXAgAAAAAAABgCAAAAAAAAAAAAABgCAAAAAAAAGQIAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFQIAAAAAAAAZAgAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t165,\n-\t\t\t\t\t1,\n-\t\t\t\t\t\"paste\",\n+\t\t\t\t\t26,\n+\t\t\t\t\t3,\n+\t\t\t\t\t\"left_delete\",\n \t\t\t\t\tnull,\n-\t\t\t\t\t\"AgAAAAwGAAAAAAAAvwYAAAAAAAAAAAAAvwYAAAAAAAC/BgAAAAAAAFoAAABsZXQgbmFtZSA9ICJKb2huIjsKCmZ1bmN0aW9uIHNheUhpKCkgewogIGFsZXJ0KCJIaSwgIiArIG5hbWUpOwp9CgpuYW1lID0gIlBldGUiOwoKc2F5SGkoKTs\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGYGAAAAAAAADAYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AwAAABgCAAAAAAAAGAIAAAAAAAABAAAAThcCAAAAAAAAFwIAAAAAAAABAAAAQRYCAAAAAAAAFgIAAAAAAAABAAAAVg\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGQIAAAAAAAAZAgAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t],\n \t\t\t\t[\n-\t\t\t\t\t241,\n+\t\t\t\t\t27,\n \t\t\t\t\t1,\n \t\t\t\t\t\"insert\",\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"characters\": \"//\"\n+\t\t\t\t\t\t\"characters\": \"van\"\n \t\t\t\t\t},\n-\t\t\t\t\t\"AgAAACUGAAAAAAAAJgYAAAAAAAAAAAAAJgYAAAAAAAAnBgAAAAAAAAAAAAA\",\n-\t\t\t\t\t\"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACUGAAAAAAAAJQYAAAAAAAAAAAAAAADwvw\"\n+\t\t\t\t\t\"AwAAABYCAAAAAAAAFwIAAAAAAAAAAAAAFwIAAAAAAAAYAgAAAAAAAAAAAAAYAgAAAAAAABkCAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFgIAAAAAAAAWAgAAAAAAAAAAAAAAAPC/\"\n \t\t\t\t]\n \t\t\t]\n \t\t},\n \t\t{\n-\t\t\t\"file\": \"/C/Users/sporo/Desktop/Proger shit/Gallery/gallery-lib/gallery.js\",\n+\t\t\t\"contents\": \"Package Control Messages\\n========================\\n\\nSublimeLinter-jsxhint\\n---------------------\\n\\n  SublimeLinter-jsxhint\\n  -------------------------------\\n  This linter plugin for SublimeLinter provides an interface to jsxhint.\\n\\n  INSTALLATION\\n  ------------\\n  Before this plugin will activate, you *must* follow the installation\\n  instructions here:\\n\\n  https://github.com/SublimeLinter/SublimeLinter-jsxhint\",\n \t\t\t\"settings\":\n \t\t\t{\n-\t\t\t\t\"buffer_size\": 4153,\n-\t\t\t\t\"encoding\": \"UTF-8\",\n-\t\t\t\t\"line_ending\": \"Windows\"\n-\t\t\t}\n+\t\t\t\t\"buffer_size\": 407,\n+\t\t\t\t\"line_ending\": \"Windows\",\n+\t\t\t\t\"name\": \"Package Control Messages\",\n+\t\t\t\t\"read_only\": true,\n+\t\t\t\t\"scratch\": true\n+\t\t\t},\n+\t\t\t\"undo_stack\":\n+\t\t\t[\n+\t\t\t\t[\n+\t\t\t\t\t1,\n+\t\t\t\t\t1,\n+\t\t\t\t\t\"insert\",\n+\t\t\t\t\t{\n+\t\t\t\t\t\t\"characters\": \"Package Control Messages\\n========================\\n\\nSublimeLinter-jsxhint\\n---------------------\\n\\n  SublimeLinter-jsxhint\\n  -------------------------------\\n  This linter plugin for SublimeLinter provides an interface to jsxhint.\\n\\n  INSTALLATION\\n  ------------\\n  Before this plugin will activate, you *must* follow the installation\\n  instructions here:\\n\\n  https://github.com/SublimeLinter/SublimeLinter-jsxhint\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"GwAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABeAAAAAAAAAAAAAABeAAAAAAAAAF8AAAAAAAAAAAAAAF8AAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAACaAAAAAAAAAOIAAAAAAAAAAAAAAOIAAAAAAAAA4wAAAAAAAAAAAAAA4wAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAPIAAAAAAAAAAAAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA8wAAAAAAAAABAQAAAAAAAAAAAAABAQAAAAAAAAIBAAAAAAAAAAAAAAIBAAAAAAAASAEAAAAAAAAAAAAASAEAAAAAAABJAQAAAAAAAAAAAABJAQAAAAAAAF0BAAAAAAAAAAAAAF0BAAAAAAAAXgEAAAAAAAAAAAAAXgEAAAAAAABfAQAAAAAAAAAAAABfAQAAAAAAAJcBAAAAAAAAAAAAAA\",\n+\t\t\t\t\t\"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/\"\n+\t\t\t\t]\n+\t\t\t]\n \t\t}\n \t],\n \t\"build_system\": \"\",\n@@ -695,6 +672,18 @@\n \t\t\"last_filter\": \"\",\n \t\t\"selected_items\":\n \t\t[\n+\t\t\t[\n+\t\t\t\t\"insta\",\n+\t\t\t\t\"Package Control: Install Package\"\n+\t\t\t],\n+\t\t\t[\n+\t\t\t\t\"install\",\n+\t\t\t\t\"Package Control: Install Package\"\n+\t\t\t],\n+\t\t\t[\n+\t\t\t\t\"pac\",\n+\t\t\t\t\"Package Control: Install Package\"\n+\t\t\t],\n \t\t\t[\n \t\t\t\t\"menu\",\n \t\t\t\t\"View: Toggle Menu\"\n@@ -726,14 +715,17 @@\n \t],\n \t\"file_history\":\n \t[\n+\t\t\"/C/Users/sporo/AppData/Roaming/Sublime Text 3/Packages/ActionScript.sublime-package\",\n+\t\t\"/E/Develop/script.js\",\n+\t\t\"/C/Users/sporo/Desktop/index.html\",\n+\t\t\"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/04 Продвинутый JavaScript/069 script.js\",\n+\t\t\"/C/Users/sporo/Desktop/Proger shit/Gallery/gallery-lib/gallery.js\",\n+\t\t\"/C/Users/sporo/Desktop/script.js\",\n \t\t\"/C/Users/sporo/Desktop/Proger shit/Gallery/script.js\",\n \t\t\"/C/Users/sporo/Desktop/Proger shit/Masonry/masonry-lib/masonry.js\",\n \t\t\"/C/Users/sporo/Desktop/Proger shit/Masonry/js/Script.js\",\n-\t\t\"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/04 Продвинутый JavaScript/069 script.js\",\n \t\t\"/E/OpenServer/domains/Just-a-project/index.html\",\n \t\t\"/E/OpenServer/domains/Just-a-project/js/script.js\",\n-\t\t\"/C/Users/sporo/Desktop/script.js\",\n-\t\t\"/C/Users/sporo/Desktop/index.html\",\n \t\t\"/C/Users/sporo/Desktop/style.css\",\n \t\t\"/E/OpenServer/domains/Just-a-project/package.json\",\n \t\t\"/E/OpenServer/domains/Just-a-project/css/style.css\",\n@@ -882,25 +874,24 @@\n \t\t\t[\n \t\t\t\t{\n \t\t\t\t\t\"buffer\": 0,\n-\t\t\t\t\t\"file\": \"/C/Users/sporo/Desktop/index.html\",\n-\t\t\t\t\t\"selected\": true,\n+\t\t\t\t\t\"file\": \"/E/Develop/script.js\",\n \t\t\t\t\t\"semi_transient\": false,\n \t\t\t\t\t\"settings\":\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"buffer_size\": 798,\n+\t\t\t\t\t\t\"buffer_size\": 545,\n \t\t\t\t\t\t\"regions\":\n \t\t\t\t\t\t{\n \t\t\t\t\t\t},\n \t\t\t\t\t\t\"selection\":\n \t\t\t\t\t\t[\n \t\t\t\t\t\t\t[\n-\t\t\t\t\t\t\t\t798,\n-\t\t\t\t\t\t\t\t798\n+\t\t\t\t\t\t\t\t439,\n+\t\t\t\t\t\t\t\t439\n \t\t\t\t\t\t\t]\n \t\t\t\t\t\t],\n \t\t\t\t\t\t\"settings\":\n \t\t\t\t\t\t{\n-\t\t\t\t\t\t\t\"syntax\": \"Packages/HTML/HTML.sublime-syntax\",\n+\t\t\t\t\t\t\t\"syntax\": \"Packages/JavaScript/JavaScript.sublime-syntax\",\n \t\t\t\t\t\t\t\"tab_size\": 4,\n \t\t\t\t\t\t\t\"translate_tabs_to_spaces\": true\n \t\t\t\t\t\t},\n@@ -908,69 +899,39 @@\n \t\t\t\t\t\t\"translation.y\": 0.0,\n \t\t\t\t\t\t\"zoom_level\": 1.0\n \t\t\t\t\t},\n-\t\t\t\t\t\"stack_index\": 0,\n-\t\t\t\t\t\"stack_multiselect\": false,\n-\t\t\t\t\t\"type\": \"text\"\n-\t\t\t\t},\n-\t\t\t\t{\n-\t\t\t\t\t\"buffer\": 1,\n-\t\t\t\t\t\"file\": \"/C/Users/sporo/Desktop/script.js\",\n-\t\t\t\t\t\"semi_transient\": false,\n-\t\t\t\t\t\"settings\":\n-\t\t\t\t\t{\n-\t\t\t\t\t\t\"buffer_size\": 1729,\n-\t\t\t\t\t\t\"regions\":\n-\t\t\t\t\t\t{\n-\t\t\t\t\t\t},\n-\t\t\t\t\t\t\"selection\":\n-\t\t\t\t\t\t[\n-\t\t\t\t\t\t\t[\n-\t\t\t\t\t\t\t\t1575,\n-\t\t\t\t\t\t\t\t1575\n-\t\t\t\t\t\t\t]\n-\t\t\t\t\t\t],\n-\t\t\t\t\t\t\"settings\":\n-\t\t\t\t\t\t{\n-\t\t\t\t\t\t\t\"syntax\": \"Packages/JavaScript/JavaScript.sublime-syntax\",\n-\t\t\t\t\t\t\t\"tab_size\": 4,\n-\t\t\t\t\t\t\t\"translate_tabs_to_spaces\": false\n-\t\t\t\t\t\t},\n-\t\t\t\t\t\t\"translation.x\": 0.0,\n-\t\t\t\t\t\t\"translation.y\": 598.0,\n-\t\t\t\t\t\t\"zoom_level\": 1.0\n-\t\t\t\t\t},\n \t\t\t\t\t\"stack_index\": 1,\n \t\t\t\t\t\"stack_multiselect\": false,\n \t\t\t\t\t\"type\": \"text\"\n \t\t\t\t},\n \t\t\t\t{\n-\t\t\t\t\t\"buffer\": 2,\n-\t\t\t\t\t\"file\": \"/C/Users/sporo/Desktop/Proger shit/Gallery/gallery-lib/gallery.js\",\n+\t\t\t\t\t\"buffer\": 1,\n+\t\t\t\t\t\"selected\": true,\n \t\t\t\t\t\"semi_transient\": false,\n \t\t\t\t\t\"settings\":\n \t\t\t\t\t{\n-\t\t\t\t\t\t\"buffer_size\": 4153,\n+\t\t\t\t\t\t\"buffer_size\": 407,\n \t\t\t\t\t\t\"regions\":\n \t\t\t\t\t\t{\n \t\t\t\t\t\t},\n \t\t\t\t\t\t\"selection\":\n \t\t\t\t\t\t[\n \t\t\t\t\t\t\t[\n-\t\t\t\t\t\t\t\t4153,\n-\t\t\t\t\t\t\t\t4153\n+\t\t\t\t\t\t\t\t407,\n+\t\t\t\t\t\t\t\t407\n \t\t\t\t\t\t\t]\n \t\t\t\t\t\t],\n \t\t\t\t\t\t\"settings\":\n \t\t\t\t\t\t{\n-\t\t\t\t\t\t\t\"syntax\": \"Packages/JavaScript/JavaScript.sublime-syntax\",\n-\t\t\t\t\t\t\t\"tab_size\": 4,\n-\t\t\t\t\t\t\t\"translate_tabs_to_spaces\": false\n+\t\t\t\t\t\t\t\"auto_indent\": false,\n+\t\t\t\t\t\t\t\"syntax\": \"Packages/Text/Plain text.tmLanguage\",\n+\t\t\t\t\t\t\t\"tab_width\": 2,\n+\t\t\t\t\t\t\t\"word_wrap\": true\n \t\t\t\t\t\t},\n \t\t\t\t\t\t\"translation.x\": 0.0,\n-\t\t\t\t\t\t\"translation.y\": 1666.0,\n+\t\t\t\t\t\t\"translation.y\": 0.0,\n \t\t\t\t\t\t\"zoom_level\": 1.0\n \t\t\t\t\t},\n-\t\t\t\t\t\"stack_index\": 2,\n+\t\t\t\t\t\"stack_index\": 0,\n \t\t\t\t\t\"stack_multiselect\": false,\n \t\t\t\t\t\"type\": \"text\"\n \t\t\t\t}\n@@ -1008,6 +969,14 @@\n \t\t]\n \t},\n \t\"menu_visible\": true,\n+\t\"output.SublimeLinter\":\n+\t{\n+\t\t\"height\": 0.0\n+\t},\n+\t\"output.SublimeLinter Messages\":\n+\t{\n+\t\t\"height\": 102.0\n+\t},\n \t\"output.find_results\":\n \t{\n \t\t\"height\": 0.0\n@@ -1054,7 +1023,7 @@\n \t\"show_open_files\": true,\n \t\"show_tabs\": true,\n \t\"side_bar_visible\": true,\n-\t\"side_bar_width\": 65.0,\n+\t\"side_bar_width\": 230.0,\n \t\"status_bar_visible\": true,\n \t\"template_settings\":\n \t{\n"
+					},
+					"AQAAAAAAAAAAAAAAYj4AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		}
 	],
 	"build_system": "",
@@ -695,6 +707,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
 			[
 				"menu",
 				"View: Toggle Menu"
@@ -726,14 +750,17 @@
 	],
 	"file_history":
 	[
+		"/C/Users/sporo/AppData/Roaming/Sublime Text 3/Packages/ActionScript.sublime-package",
+		"/E/Develop/script.js",
+		"/C/Users/sporo/Desktop/index.html",
+		"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/04 Продвинутый JavaScript/069 script.js",
+		"/C/Users/sporo/Desktop/Proger shit/Gallery/gallery-lib/gallery.js",
+		"/C/Users/sporo/Desktop/script.js",
 		"/C/Users/sporo/Desktop/Proger shit/Gallery/script.js",
 		"/C/Users/sporo/Desktop/Proger shit/Masonry/masonry-lib/masonry.js",
 		"/C/Users/sporo/Desktop/Proger shit/Masonry/js/Script.js",
-		"/D/Torrents/[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата/04 Продвинутый JavaScript/069 script.js",
 		"/E/OpenServer/domains/Just-a-project/index.html",
 		"/E/OpenServer/domains/Just-a-project/js/script.js",
-		"/C/Users/sporo/Desktop/script.js",
-		"/C/Users/sporo/Desktop/index.html",
 		"/C/Users/sporo/Desktop/style.css",
 		"/E/OpenServer/domains/Just-a-project/package.json",
 		"/E/OpenServer/domains/Just-a-project/css/style.css",
@@ -882,27 +909,88 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/sporo/Desktop/index.html",
-					"selected": true,
+					"file": "/E/Develop/script.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 798,
+						"buffer_size": 545,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								798,
-								798
+								439,
+								439
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/script.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 17042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_root_dir": "E:\\OpenServer\\domains\\Just-a-project",
+							"syntax": "Packages/Git/syntax/Git Commit View.tmLanguage",
+							"word_wrap": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -913,64 +1001,32 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/C/Users/sporo/Desktop/script.js",
+					"buffer": 3,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1729,
+						"buffer_size": 15970,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1575,
-								1575
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
+							"git_root_dir": "E:\\OpenServer\\domains\\Just-a-project",
+							"syntax": "Packages/Diff/Diff.tmLanguage",
+							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 598.0,
+						"translation.y": 4033.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/sporo/Desktop/Proger shit/Gallery/gallery-lib/gallery.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4153,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4153,
-								4153
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1666.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1008,6 +1064,14 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -1054,7 +1118,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 65.0,
+	"side_bar_width": 230.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
