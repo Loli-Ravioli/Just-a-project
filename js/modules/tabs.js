@@ -1,10 +1,10 @@
-function tabs(){
+function tabs(tabsSelector,tabscontentSelector,tabsparentSelector,activeClass){
 
 // tabs и их переключение 
 
-const tabs = document.querySelectorAll(".tabheader__item"),
-tabscontent = document.querySelectorAll(".tabcontent"),
-tabparent = document.querySelector(".tabheader__items");
+const tabs = document.querySelectorAll(tabsSelector),
+tabscontent = document.querySelectorAll(tabscontentSelector),
+tabparent = document.querySelector(tabsparentSelector);
 
 function hidetabscontent(){
 	tabscontent.forEach(element=>{
@@ -12,12 +12,12 @@ function hidetabscontent(){
 	})
 
 	tabs.forEach(element=>{
-		element.classList.remove("tabheader__item_active");
+		element.classList.remove(activeClass.slice(1));
 	});
 };
 function showtabscontent(i=0) {
 	tabscontent[i].style.display="block";
-	tabs[i].classList.add(".tabheader__item_active")
+	tabs[i].classList.add(activeClass)
 }
 hidetabscontent();
 showtabscontent();
@@ -25,7 +25,7 @@ showtabscontent();
 tabparent.addEventListener("click",(event)=>{
 	const target = event.target;
 
-	if (target && target.classList.contains("tabheader__item")){
+	if (target && target.classList.contains(tabsSelector.slice(1))){
 		tabs.forEach((element,index)=>{
 			if(element==target){
 				hidetabscontent();
@@ -37,4 +37,4 @@ tabparent.addEventListener("click",(event)=>{
 })
 }
 
-module.exports = tabs;
+export default tabs;

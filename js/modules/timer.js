@@ -1,10 +1,7 @@
-function timer() {
-
-
+function timer(id,deadline) {
 	//timer 
 
-	//дедлайн даты таймера 
-	const deadlinetime = "2022-03-23";
+	//дедлайн даты таймера
 
 	function getTimeReamain(endtime) {
 		const t = Date.parse(endtime) - Date.parse(new Date());
@@ -48,7 +45,7 @@ function timer() {
 	};	
 
 	}
-	setTimer(".timer",deadlinetime);
+	setTimer(id,deadline);
 
 }
-module.exports=timer;
+export default timer;

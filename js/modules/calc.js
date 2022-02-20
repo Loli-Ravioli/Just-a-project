@@ -1,6 +1,5 @@
 function calc() {
 
-
 	     	 //калькулятор калорий 
 
 	     	 const result = document.querySelector(".calculating__result span");
@@ -76,7 +75,6 @@ function calc() {
 	     	 		elements.forEach(el=>{
 	     	 			el.classList.remove(activeClass);	     	 			
 	     	 		});
-
 	     	 		e.target.classList.add(activeClass);
 	     	 		calcTotal();
 	     	 	});
@@ -121,4 +119,4 @@ function calc() {
 	     	 
 	     	 
 }
-module.exports=calc;
+export default calc;

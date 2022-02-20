@@ -1,6 +1,10 @@
-function forms() {
+import {showmodal,closemodal} from "./modal";
+import {postData} from "../services/services";
+
+
+function forms(formSelector,modaltimerid) {
  // forms формы заполнения 
-	    const forms = document.querySelectorAll("form");
+	    const forms = document.querySelectorAll(formSelector);
 
 	    const errorMessage = {
 	    	loading: "img/animation/spinner.svg",
@@ -12,17 +16,7 @@ function forms() {
 	    	formPost(item);
 	    });
 
-	    const postData =  async (url,data) => {
-	    	const result = await fetch(url,{
-	    		method:"POST",
-	    		headers:{
-	     				"Content-type": "application/json"
-	     			},
-	     			body: data
-	    	});
 
-	    	return  await result.json();
-	    };
 	    
 
 	    function formPost(form){
@@ -77,7 +71,7 @@ function forms() {
 	     	const pervModalDialog = document.querySelector(".modal__dialog");
 
 	     	pervModalDialog.style.display = "none";
-	     	showmodal();
+	     	showmodal('.modal',modaltimerid);
 
 	     	const ModalMessage = document.createElement("div");
 	     	ModalMessage.classList.add("modal__dialog");
@@ -91,9 +85,9 @@ function forms() {
 	     	setTimeout(()=>{
 	     		ModalMessage.remove();
 	     		pervModalDialog.style.display = "block";
-	     		closemodal();
+	     		closemodal('.modal');
 	     	},3000);
 	     } 
 
 }
-module.exports=forms;
+export default forms;

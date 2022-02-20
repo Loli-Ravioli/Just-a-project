@@ -1,3 +1,5 @@
+import {getData} from"../services/services";
+
 function cards(){
 		//Классы для для карточек
 
@@ -48,15 +50,7 @@ function cards(){
 
 
 // Загрузка карточек с серва при помощи fetch
-/*	const GetData =  async (url) => {
-	    	const result = await fetch(url);
-
-	    	if(!result.ok){
-	    		 throw new Error(`fetch error on url: ${url}, status${result.status}`);
-	    	}
-
-	    	return  await result.json();
-	    };
+/*
 	    GetData("http://localhost:3000/menu")
 	    .then(data=>{
 	    	data.forEach(({img, altimg, title, descr, price,currency})=>{
@@ -93,4 +87,4 @@ function cards(){
 
 }
 
-module.exports=cards;
+export default cards;
