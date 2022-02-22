@@ -3,20 +3,21 @@ function tabs(tabsSelector,tabscontentSelector,tabsparentSelector,activeClass){
 // tabs и их переключение 
 
 const tabs = document.querySelectorAll(tabsSelector),
-tabscontent = document.querySelectorAll(tabscontentSelector),
+tabsContent = document.querySelectorAll(tabscontentSelector),
 tabparent = document.querySelector(tabsparentSelector);
 
 function hidetabscontent(){
-	tabscontent.forEach(element=>{
+	tabsContent.forEach(element=>{
 		element.style.display="none";
 	})
 
 	tabs.forEach(element=>{
-		element.classList.remove(activeClass.slice(1));
+		element.classList.remove(activeClass/*.slice(1)*/);
+		console.log("remove class")
 	});
-};
+}
 function showtabscontent(i=0) {
-	tabscontent[i].style.display="block";
+	tabsContent[i].style.display="block";
 	tabs[i].classList.add(activeClass)
 }
 hidetabscontent();
@@ -27,7 +28,7 @@ tabparent.addEventListener("click",(event)=>{
 
 	if (target && target.classList.contains(tabsSelector.slice(1))){
 		tabs.forEach((element,index)=>{
-			if(element==target){
+			if(element===target){
 				hidetabscontent();
 				showtabscontent(index);
 			}

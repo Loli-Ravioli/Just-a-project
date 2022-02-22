@@ -2,7 +2,7 @@ import {showmodal,closemodal} from "./modal";
 import {postData} from "../services/services";
 
 
-function forms(formSelector,modaltimerid) {
+function forms(formSelector,modalTimerId) {
  // forms формы заполнения 
 	    const forms = document.querySelectorAll(formSelector);
 
@@ -50,7 +50,6 @@ function forms(formSelector,modaltimerid) {
 
 	     		postData("http://localhost:3000/requests",json)
 	     		.then(data => {
-	     				//console.log(data);	
 	     				showMessageModal(errorMessage.success); 	
 	     				statusError.remove()
 	     		}).catch(()=>{
@@ -59,8 +58,7 @@ function forms(formSelector,modaltimerid) {
 	     		}).finally(()=>{
 	     			form.reset();
 	     		});	     		
-	     	})
-	    };
+	     	})}
 
 
 
@@ -71,7 +69,7 @@ function forms(formSelector,modaltimerid) {
 	     	const pervModalDialog = document.querySelector(".modal__dialog");
 
 	     	pervModalDialog.style.display = "none";
-	     	showmodal('.modal',modaltimerid);
+	     	showmodal('.modal',modalTimerId);
 
 	     	const ModalMessage = document.createElement("div");
 	     	ModalMessage.classList.add("modal__dialog");
