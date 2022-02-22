@@ -257,7 +257,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-function forms(formSelector,modaltimerid) {
+function forms(formSelector,modalTimerId) {
  // forms формы заполнения 
 	    const forms = document.querySelectorAll(formSelector);
 
@@ -305,7 +305,6 @@ function forms(formSelector,modaltimerid) {
 
 	     		(0,_services_services__WEBPACK_IMPORTED_MODULE_1__.postData)("http://localhost:3000/requests",json)
 	     		.then(data => {
-	     				//console.log(data);	
 	     				showMessageModal(errorMessage.success); 	
 	     				statusError.remove()
 	     		}).catch(()=>{
@@ -314,8 +313,7 @@ function forms(formSelector,modaltimerid) {
 	     		}).finally(()=>{
 	     			form.reset();
 	     		});	     		
-	     	})
-	    };
+	     	})}
 
 
 
@@ -326,7 +324,7 @@ function forms(formSelector,modaltimerid) {
 	     	const pervModalDialog = document.querySelector(".modal__dialog");
 
 	     	pervModalDialog.style.display = "none";
-	     	(0,_modal__WEBPACK_IMPORTED_MODULE_0__.showmodal)('.modal',modaltimerid);
+	     	(0,_modal__WEBPACK_IMPORTED_MODULE_0__.showmodal)('.modal',modalTimerId);
 
 	     	const ModalMessage = document.createElement("div");
 	     	ModalMessage.classList.add("modal__dialog");
@@ -636,20 +634,21 @@ function tabs(tabsSelector,tabscontentSelector,tabsparentSelector,activeClass){
 // tabs и их переключение 
 
 const tabs = document.querySelectorAll(tabsSelector),
-tabscontent = document.querySelectorAll(tabscontentSelector),
+tabsContent = document.querySelectorAll(tabscontentSelector),
 tabparent = document.querySelector(tabsparentSelector);
 
 function hidetabscontent(){
-	tabscontent.forEach(element=>{
+	tabsContent.forEach(element=>{
 		element.style.display="none";
 	})
 
 	tabs.forEach(element=>{
-		element.classList.remove(activeClass.slice(1));
+		element.classList.remove(activeClass/*.slice(1)*/);
+		console.log("remove class")
 	});
-};
+}
 function showtabscontent(i=0) {
-	tabscontent[i].style.display="block";
+	tabsContent[i].style.display="block";
 	tabs[i].classList.add(activeClass)
 }
 hidetabscontent();
@@ -660,7 +659,7 @@ tabparent.addEventListener("click",(event)=>{
 
 	if (target && target.classList.contains(tabsSelector.slice(1))){
 		tabs.forEach((element,index)=>{
-			if(element==target){
+			if(element===target){
 				hidetabscontent();
 				showtabscontent(index);
 			}
