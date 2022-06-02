@@ -216,7 +216,7 @@ function cards(){
 	    		 new MenuCard(img, altimg, title, descr, price,currency, ".menu .container").render();	    		
 	    	})
 	    });
-	    	//axios.post("http://localhost:3000/menu")
+	    	axios.post("http://localhost:3000/menu");
 
 
 
@@ -355,8 +355,8 @@ function forms(formSelector,modalTimerId) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__),
 /* harmony export */   "closemodal": () => (/* binding */ closemodal),
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__),
 /* harmony export */   "showmodal": () => (/* binding */ showmodal)
 /* harmony export */ });
 function showmodal(modalSelector,modaltimerid) {
@@ -443,8 +443,7 @@ function slider({container, slide, nextArrow, prevArrow, totalCuuner, cyrrentCou
 	     	let slideIndex = 1;
 	     	let offset = 0;
 
-	     	//console.log(slides.length);
-	     	//console.log(width)
+
 
 	     	if(slides.length<10){
 	     		total.textContent =`0${slides.length}`;
@@ -577,42 +576,6 @@ function slider({container, slide, nextArrow, prevArrow, totalCuuner, cyrrentCou
 	     			
 	     		})
 	     	})
-//более простая версия слайдера 
-	     	/*showSlides(slideIndex);
-	     	if(slides.length<10){
-	     		total.textContent =`0${slides.length}`;
-	     	}else{
-	     		total.textContent = slides.length
-	     	}
-
-	     	function showSlides(n){
-	     		if(n>slides.length){
-	     			slideIndex=1;
-	     		}
-	     		if(n < 1){
-	     			slideIndex= slides.length
-	     		}
-	     		slides.forEach(item => item.style.display = "none");
-
-	     		slides[slideIndex-1].style.display="block";
-
-	     	if(slides.length<10){
-	     		current.textContent =`0${slideIndex}`;
-	     	}else{
-	     		current.textContent = slideIndex
-	     	}
-
-	     	}
-	     	function plusSlides(n){
-	     		showSlides(slideIndex+=n);
-	     	}
-
-	     	previos.addEventListener("click",()=>{
-	     		plusSlides(-1)
-	     	});
-	     	next.addEventListener("click",()=>{
-	     		plusSlides(1)
-	     	});*/
 
 }
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (slider);
@@ -644,7 +607,7 @@ function hidetabscontent(){
 
 	tabs.forEach(element=>{
 		element.classList.remove(activeClass/*.slice(1)*/);
-		console.log("remove class")
+
 	});
 }
 function showtabscontent(i=0) {
@@ -683,6 +646,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
+function clearinetval(timeinterval) {
+
+}
+
 function timer(id,deadline) {
 	//timer 
 
@@ -721,13 +688,13 @@ function timer(id,deadline) {
 			mins.innerHTML = zeronum(t.mins);					
 			seconds.innerHTML = zeronum(t.seconds);
 			if(t.total <= 0){
-				clearinetval(timeinterval);
+				//clearinetval(timeinterval);
 			}
 		}	
 
 		function zeronum(num) {
 		return (num >= 0 && num < 10)? `0${num}`: num
-	};	
+	}
 
 	}
 	setTimer(id,deadline);
@@ -745,8 +712,8 @@ function timer(id,deadline) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "postData": () => (/* binding */ postData),
-/* harmony export */   "GetData": () => (/* binding */ GetData)
+/* harmony export */   "GetData": () => (/* binding */ GetData),
+/* harmony export */   "postData": () => (/* binding */ postData)
 /* harmony export */ });
 const postData =  async (url,data) => {
     const result = await fetch(url,{
@@ -859,7 +826,7 @@ __webpack_require__.r(__webpack_exports__);
 
 						(0,_modules_tabs__WEBPACK_IMPORTED_MODULE_0__["default"])(".tabheader__item",".tabcontent",".tabheader__items","tabheader__item_active");
 						(0,_modules_modal__WEBPACK_IMPORTED_MODULE_1__["default"])("[data-modal]",".modal",modaltimerid);
-						(0,_modules_timer__WEBPACK_IMPORTED_MODULE_2__["default"])(".timer","2022-03-23");
+						(0,_modules_timer__WEBPACK_IMPORTED_MODULE_2__["default"])(".timer","2022-12-31");
 						(0,_modules_cards__WEBPACK_IMPORTED_MODULE_3__["default"])();
 						(0,_modules_forms__WEBPACK_IMPORTED_MODULE_4__["default"])("form",modaltimerid);
 						(0,_modules_calc__WEBPACK_IMPORTED_MODULE_5__["default"])();

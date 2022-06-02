@@ -66,7 +66,7 @@ function cards(){
 	    		 new MenuCard(img, altimg, title, descr, price,currency, ".menu .container").render();	    		
 	    	})
 	    });
-	    	//axios.post("http://localhost:3000/menu")
+	    	axios.post("http://localhost:3000/menu");
 
 
 

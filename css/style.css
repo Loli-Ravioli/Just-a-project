@@ -182,6 +182,7 @@ a {
 
 .tabcontent {
     width: 850px;
+    height: 480px;
     position: relative
 }
 
@@ -196,9 +197,8 @@ a {
     top: 300px;
     right: -177px;
     width: 550px;
-    height: 359px;
     background: rgba(251, 254, 93, .8);
-    padding: 50px;
+    padding: 25px;
     font-size: 24px;
     font-weight: 300;
     line-height: 36px;

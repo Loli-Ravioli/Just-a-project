@@ -1,3 +1,7 @@
+function clearinetval(timeinterval) {
+
+}
+
 function timer(id,deadline) {
 	//timer 
 
@@ -36,13 +40,13 @@ function timer(id,deadline) {
 			mins.innerHTML = zeronum(t.mins);					
 			seconds.innerHTML = zeronum(t.seconds);
 			if(t.total <= 0){
-				clearinetval(timeinterval);
+				//clearinetval(timeinterval);
 			}
 		}	
 
 		function zeronum(num) {
 		return (num >= 0 && num < 10)? `0${num}`: num
-	};	
+	}
 
 	}
 	setTimer(id,deadline);

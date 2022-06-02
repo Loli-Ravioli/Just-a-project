@@ -13,7 +13,7 @@
 
 						tabs(".tabheader__item",".tabcontent",".tabheader__items","tabheader__item_active");
 						modal("[data-modal]",".modal",modaltimerid);
-						timer(".timer","2022-03-23");
+						timer(".timer","2022-12-31");
 						cards();
 						forms("form",modaltimerid);
 						calc();

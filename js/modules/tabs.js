@@ -13,7 +13,7 @@ function hidetabscontent(){
 
 	tabs.forEach(element=>{
 		element.classList.remove(activeClass/*.slice(1)*/);
-		console.log("remove class")
+
 	});
 }
 function showtabscontent(i=0) {
