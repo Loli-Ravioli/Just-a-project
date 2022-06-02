@@ -120,7 +120,8 @@ function calc() {
 	     	 				break;
 	     	 		}
 	     	 		calcTotal();
-	     	 		console.log("test");
+	     	 		console.log(`Heigth: ${height} weigth: ${weight} age: ${age}`);
+	     	 		console.log(input.getAttribute("id"))
 	     	 	});
 	     	 }
 
@@ -841,7 +842,7 @@ __webpack_require__.r(__webpack_exports__);
 							field:".offer__slider-inner"
 
 						});
-	console.log(_modules_tabs__WEBPACK_IMPORTED_MODULE_0__["default"]);
+
 	});
 })();
 

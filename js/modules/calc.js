@@ -106,7 +106,8 @@ function calc() {
 	     	 				break;
 	     	 		}
 	     	 		calcTotal();
-	     	 		console.log("test");
+	     	 		console.log(`Heigth: ${height} weigth: ${weight} age: ${age}`);
+	     	 		console.log(input.getAttribute("id"))
 	     	 	});
 	     	 }
 

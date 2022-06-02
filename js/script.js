@@ -28,5 +28,5 @@
 							field:".offer__slider-inner"
 
 						});
-	console.log(tabs);
+
 	});
